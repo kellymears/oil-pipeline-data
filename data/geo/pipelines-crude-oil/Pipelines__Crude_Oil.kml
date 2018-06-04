@@ -1,0 +1,2014 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">LSr Project</SimpleData>
+		<SimpleData name="Shape_Leng">6.33628347985</SimpleData>
+		<SimpleData name="Shape__Length">6.336283479851</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-95.387677266,47.708252183000099 -96.027239435999903,48.006494334000102 -97.42135763899999,49.037545329000103 -101.251331518,49.755233692</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Buffalo</SimpleData>
+		<SimpleData name="Shape_Leng">1.18498422906</SimpleData>
+		<SimpleData name="Shape__Length">1.18498422905971</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-78.788383564999904,42.877859405 -78.858200221999894,42.996055204000101 -79.905423018999898,43.027955296000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">3</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Chicap</SimpleData>
+		<SimpleData name="Shape_Leng">3.04476950312</SimpleData>
+		<SimpleData name="Shape__Length">3.04476950312194</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-89.095299912,38.755300131000098 -88.463125651,40.426911748000101 -88.128951598999905,41.144226018000097 -88.015124933,41.596396054</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Lakehead</SimpleData>
+		<SimpleData name="Shape_Leng">6.12705926343</SimpleData>
+		<SimpleData name="Shape__Length">6.12705926342763</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-97.532672776,49.000580181 -96.122771609,47.982139769000099 -95.41318112099999,47.705615289 -95.167370283,47.645747112 -94.72923081099999,47.396946342 -93.618670935999901,47.325011598000103 -93.111937124999898,47.094244956000097 -92.55045161699999,46.693398344000101 -92.241548514,46.612745476 -92.067687556,46.690705149000102</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">5</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Lakehead</SimpleData>
+		<SimpleData name="Shape_Leng">7.32672604926</SimpleData>
+		<SimpleData name="Shape__Length">7.32672604925622</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-92.067687623,46.68275018 -88.685570011,42.930006636 -88.370843037,41.5725941110001 -87.49184302099999,41.6375155550001</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">6</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Lakehead</SimpleData>
+		<SimpleData name="Shape_Leng">7.35446465229</SimpleData>
+		<SimpleData name="Shape__Length">7.35446465229286</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-92.067687556,46.690705149000102 -88.653015314999905,42.930007178 -88.338288051999896,41.572594100000103 -88.015124933,41.596396054 -87.459288343,41.6375156820001</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">7</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Lakehead</SimpleData>
+		<SimpleData name="Shape_Leng">11.5884945713</SimpleData>
+		<SimpleData name="Shape__Length">11.5884945712902</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-82.481875058,42.867971304 -84.01674565899999,43.57152684 -84.784224370999894,45.926935662000098 -85.316490581,46.18461641 -86.52953447599999,45.9527156830001 -87.09888786,45.995717081000102 -88.68319079699999,46.1588506370001 -90.069501986,46.4836814330001 -92.067687556,46.690705149000102</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">8</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Lakehead</SimpleData>
+		<SimpleData name="Shape_Leng">5.24934388015</SimpleData>
+		<SimpleData name="Shape__Length">5.24934388015022</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-82.490013997999895,42.886702983000099 -83.320770610999901,42.839268503 -83.732029696,42.67715988 -84.239523157999898,42.540514527 -84.975804556,42.266917103 -85.652983013,42.064479085000102 -86.246312020999895,41.808163456 -87.061647259,41.538522934000099 -87.50897587,41.605115448</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">9</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Mainline</SimpleData>
+		<SimpleData name="Shape_Leng">16.6562515004</SimpleData>
+		<SimpleData name="Shape__Length">16.656251500422</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-97.532672776,49.000580181 -104.61693155099999,50.4106105380001 -109.168796297,51.897604868 -111.35015441,52.638013097 -113.529020173,53.493649593</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">10</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Mainline</SimpleData>
+		<SimpleData name="Shape_Leng">9.3574355896</SimpleData>
+		<SimpleData name="Shape__Length">9.35743558959999</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.780257072,45.616163877000098 -74.126853385999894,45.7804185480001 -74.405356663,45.633474932000098 -74.53532037399999,45.486145547 -75.48840762099999,45.220855814000103 -79.535928165,43.705926611000102 -80.006278788,43.265876013 -82.481875058,42.867971304</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">11</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Midcontinent (Ozark)</SimpleData>
+		<SimpleData name="Shape_Leng">7.29019726809</SimpleData>
+		<SimpleData name="Shape__Length">7.29019726808655</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.768130740999894,35.94708531 -95.433016432,36.844827519 -92.92127657499999,37.569580382 -90.140108246,38.862748208</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">12</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Mustang</SimpleData>
+		<SimpleData name="Shape_Leng">3.0059569368</SimpleData>
+		<SimpleData name="Shape__Length">3.00595693679756</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-89.070980301,38.794035676000099 -88.367492837,40.313428335 -88.150880624,40.998913336 -88.015124933,41.596396054</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">13</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Nanticoke</SimpleData>
+		<SimpleData name="Shape_Leng">0.456564255666</SimpleData>
+		<SimpleData name="Shape__Length">0.456564255666309</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.813784563999903,42.852269091 -79.905423018999898,43.027955296000101 -80.006278788,43.265876013</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">14</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">North Dakota System</SimpleData>
+		<SimpleData name="Shape_Leng">1.06723824817</SimpleData>
+		<SimpleData name="Shape__Length">1.06723824816546</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-101.261256319,48.239298606 -101.206610272,48.719661121000101 -101.411767144,48.938472465000103 -101.691137091,48.988598238000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">15</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">North Dakota System</SimpleData>
+		<SimpleData name="Shape_Leng">1.41469777281</SimpleData>
+		<SimpleData name="Shape__Length">1.41469777281447</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-102.575391717,49.431386018000097 -101.91120162,49.406323766000099 -101.239307245,49.739656108000098</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">16</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">North Dakota System</SimpleData>
+		<SimpleData name="Shape_Leng">2.59924819966</SimpleData>
+		<SimpleData name="Shape__Length">2.59924819966181</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-101.7181333,48.298567845 -102.425888535,48.847015447 -102.593910431,48.877069331 -102.575391717,49.431386018000097 -103.372938461,49.1871896050001 -103.498314465,49.115437533</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">17</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">North Dakota System</SimpleData>
+		<SimpleData name="Shape_Leng">9.13174028672</SimpleData>
+		<SimpleData name="Shape__Length">9.13174028672164</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-104.141416256,48.9854263920001 -104.13733634099999,48.781876482 -103.951060141,48.603886055 -102.926552388,48.284781772 -101.78233294499999,48.323609079 -101.7181333,48.298567845 -101.45627592,48.298374072000101 -101.28353739,48.280842714000102 -101.261256319,48.239298606 -100.923270556,48.252043573 -100.19503469599999,48.367305489 -99.815084433,48.362590160000103 -99.239305981,48.277122034000101 -98.64636708499999,48.073598485 -96.429594552,47.79004446 -95.432631052,47.69257739</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">18</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Southern Access</SimpleData>
+		<SimpleData name="Shape_Leng">8.33654187556</SimpleData>
+		<SimpleData name="Shape__Length">8.33654187556108</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-91.99026639,46.585457203 -88.740443097,42.937875514 -88.809247915999904,41.933235989 -88.645493055,40.950515724000098 -87.45353612,41.466807722 -87.50897587,41.605115448</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">19</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Spearhead</SimpleData>
+		<SimpleData name="Shape_Leng">9.65982166663</SimpleData>
+		<SimpleData name="Shape__Length">9.65982166662642</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.768130740999894,35.94708531 -95.935000356,37.011399913 -95.885303288,37.259554062000099 -95.436699652,37.810600464000103 -94.912499985999901,38.139999806 -94.16189989599999,38.667199669000098 -93.568300130999901,38.983299677000097 -93.228863469,39.274019560000099 -92.791976824999907,39.514630832000101 -92.04280036199999,39.693899551000101 -91.396099936,39.970600073000099 -90.563100267,40.121099651000101 -89.82750027,40.370000139000098 -89.274700209999907,40.629700149 -88.861099655,40.878099537</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">20</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Tinsley</SimpleData>
+		<SimpleData name="Shape_Leng">0.614771689983</SimpleData>
+		<SimpleData name="Shape__Length">0.614771689982955</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-90.460300436,32.731899777 -91.051099951,32.901900259000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">21</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Toledo</SimpleData>
+		<SimpleData name="Shape_Leng">1.17740062832</SimpleData>
+		<SimpleData name="Shape__Length">1.17740062831787</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-83.508054769999902,41.630497602000098 -83.615832745,41.6912495770001 -84.239523157999898,42.540514527</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">22</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Tulsa</SimpleData>
+		<SimpleData name="Shape_Leng">0.778691315189</SimpleData>
+		<SimpleData name="Shape__Length">0.77869131518906</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.768130740999894,35.94708531 -96.007399134,36.1133609440001</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">23</SimpleData>
+		<SimpleData name="Opername">ENTERPRISE</SimpleData>
+		<SimpleData name="Pipename">Seaway</SimpleData>
+		<SimpleData name="Shape_Leng">7.40330784472</SimpleData>
+		<SimpleData name="Shape__Length">7.40330784472042</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.74420662,35.980371660000102 -96.753744471999894,35.225023924 -96.465227741,33.803492177000102 -96.328099896999902,32.746576930000103 -96.368187491,32.051415767 -96.14018721799999,31.403279536000099 -96.003429610999902,30.773314083 -95.905047128,30.063834276000101 -95.8931350659999,29.735513326 -95.778073921,29.368165617 -95.700632024999905,29.187846095000101 -95.684563028,29.144255806 -95.556365962,28.987599253 -95.334150526,28.933497355</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">24</SimpleData>
+		<SimpleData name="Opername">EXXONMOBIL</SimpleData>
+		<SimpleData name="Pipename">North Louisiana System</SimpleData>
+		<SimpleData name="Shape_Leng">4.72344342235</SimpleData>
+		<SimpleData name="Shape__Length">4.72344342235053</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-91.168750105,30.478117003000101 -91.832083153,30.749695745 -92.569729020999901,31.246506449 -93.363791799999902,31.966178148 -93.674265858,32.355943939 -95.20388258,32.589516109</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">25</SimpleData>
+		<SimpleData name="Opername">EXXONMOBIL</SimpleData>
+		<SimpleData name="Pipename">Southern Louisiana</SimpleData>
+		<SimpleData name="Shape_Leng">0.565932822085</SimpleData>
+		<SimpleData name="Shape__Length">0.565932822084902</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-90.84809475,30.011790827 -91.168750105,30.478117003000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">26</SimpleData>
+		<SimpleData name="Opername">LOOP</SimpleData>
+		<SimpleData name="Pipename">LOOP</SimpleData>
+		<SimpleData name="Shape_Leng">1.53092982501</SimpleData>
+		<SimpleData name="Shape__Length">1.53092982501144</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-90.861482106,30.0109157730001 -90.68845365,29.813635166 -90.497191525999895,29.665397029000101 -90.252719153,29.562162216 -90.01881126799999,28.837831329</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">27</SimpleData>
+		<SimpleData name="Opername">MAGELLAN</SimpleData>
+		<SimpleData name="Pipename">Longhorn</SimpleData>
+		<SimpleData name="Shape_Leng">7.91268464841</SimpleData>
+		<SimpleData name="Shape__Length">7.91268464840677</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-102.39218039,31.4234564170001 -101.660548105,31.194126052000101 -101.215389253,30.962548749000099 -97.21322499,30.037832773 -96.494662159,29.998640597000101 -95.921753862999907,29.928652983 -95.348844605,29.864261759 -94.934534771999907,29.34634598</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">28</SimpleData>
+		<SimpleData name="Opername">MAGELLAN</SimpleData>
+		<SimpleData name="Pipename">Osage</SimpleData>
+		<SimpleData name="Shape_Leng">2.79288619351</SimpleData>
+		<SimpleData name="Shape__Length">2.79288619350604</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.011742651999896,36.137393333 -96.013902521,35.969869325 -96.768130740999894,35.94708531 -96.709486034999898,36.376458117 -96.880732935,37.80363767</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">29</SimpleData>
+		<SimpleData name="Opername">NUSTAR ENERGY</SimpleData>
+		<SimpleData name="Pipename">Central West Crude Oil Pipeline System</SimpleData>
+		<SimpleData name="Shape_Leng">0.470309953324</SimpleData>
+		<SimpleData name="Shape__Length">0.470309953323594</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-101.871512874,35.963783077000102 -101.515882798,36.2715471120001</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">30</SimpleData>
+		<SimpleData name="Opername">NUSTAR ENERGY</SimpleData>
+		<SimpleData name="Pipename">Central West Crude Oil Pipeline System</SimpleData>
+		<SimpleData name="Shape_Leng">0.947618431989</SimpleData>
+		<SimpleData name="Shape__Length">0.947618431989418</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-97.954202817999899,33.863457767000099 -97.535970597999906,34.161024967000102 -97.103798567999903,34.204272872</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">31</SimpleData>
+		<SimpleData name="Opername">NUSTAR ENERGY</SimpleData>
+		<SimpleData name="Pipename">Central West Crude Oil Pipeline System</SimpleData>
+		<SimpleData name="Shape_Leng">7.13551796793</SimpleData>
+		<SimpleData name="Shape__Length">7.13551796792523</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-98.44009788699999,33.915981512 -100.233241293,34.339189353 -100.742586018,35.157335621000101 -101.368097374,35.631032335 -101.871512874,35.963783077000102 -102.00209748899999,36.809107326000102 -102.329376145,37.500897091000098 -102.343136465,38.821459353000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">32</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Basin</SimpleData>
+		<SimpleData name="Shape_Leng">8.79856694196</SimpleData>
+		<SimpleData name="Shape__Length">8.79856694196471</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-103.15713243899999,32.669246180000101 -103.177086074,32.064607669 -103.132937917,31.786125002000102 -102.039798755,32.005551548 -101.058858441,32.257129202 -100.689895741,32.6995504590001 -99.450336619,33.371149452000097 -98.480765178999903,33.843410932 -97.611312107999893,34.847195299000099 -96.758547548,35.946983597</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">33</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Frontier</SimpleData>
+		<SimpleData name="Shape_Leng">6.24112741597</SimpleData>
+		<SimpleData name="Shape__Length">6.24112741597091</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-111.921209486,40.832733363 -111.928263949,41.13326282 -111.789808796,41.136455159 -111.666936377,41.042869851 -111.283835642,41.21148794 -111.069955526,41.244413239 -110.818888339,41.256973135000102 -110.72888280799999,41.265778746000102 -110.461929401,41.3330013980001 -109.979686443,41.564031939000103 -109.529657738,41.718697861000102 -109.11509574,41.937041787000098 -108.792542575,41.938017222 -107.662417562,42.437011384000101 -106.372236921,42.862148156</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">34</SimpleData>
+		<SimpleData name="Opername">SHELL</SimpleData>
+		<SimpleData name="Pipename">AFLAK to Houma</SimpleData>
+		<SimpleData name="Shape_Leng">0.64773444528</SimpleData>
+		<SimpleData name="Shape__Length">0.647734445279525</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-90.688486578,29.619201508 -90.045765063,29.699631389</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">35</SimpleData>
+		<SimpleData name="Opername">SHELL</SimpleData>
+		<SimpleData name="Pipename">Alliance Refinery</SimpleData>
+		<SimpleData name="Shape_Leng">0.0468395999558</SimpleData>
+		<SimpleData name="Shape__Length">0.046839599955793</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-90.023570638,29.6743411110001 -89.976800275999906,29.676886963000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">36</SimpleData>
+		<SimpleData name="Opername">SHELL</SimpleData>
+		<SimpleData name="Pipename">Capline</SimpleData>
+		<SimpleData name="Shape_Leng">9.13707318893</SimpleData>
+		<SimpleData name="Shape__Length">9.13707318893019</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-90.859830054,30.010079803 -90.739388759999898,31.466331467 -90.485888691999904,31.884237812 -89.981868691,33.538464633 -89.927985596,34.139360472000099 -89.778774379,34.565709359 -88.858034389,37.178247483000099 -89.026481491,38.078318033000102 -89.042417497,38.288951879 -89.069791244,38.793986679</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">37</SimpleData>
+		<SimpleData name="Opername">SHELL</SimpleData>
+		<SimpleData name="Pipename">Clovelly\NORCO</SimpleData>
+		<SimpleData name="Shape_Leng">0.469643869892</SimpleData>
+		<SimpleData name="Shape__Length">0.469643869891484</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-90.26922864399999,29.546185706000099 -90.409217896,29.994480669</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">38</SimpleData>
+		<SimpleData name="Opername">SHELL</SimpleData>
+		<SimpleData name="Pipename">Clovelly\NORCO</SimpleData>
+		<SimpleData name="Shape_Leng">0.693031906539</SimpleData>
+		<SimpleData name="Shape__Length">0.693031906538873</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-90.557926672999898,29.090587719 -90.470526376,29.128811302 -90.441628949999895,29.350888392000101 -90.531414696999903,29.494901917 -90.690466627,29.622613406</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">39</SimpleData>
+		<SimpleData name="Opername">SHELL</SimpleData>
+		<SimpleData name="Pipename">Delta</SimpleData>
+		<SimpleData name="Shape_Leng">2.03866315444</SimpleData>
+		<SimpleData name="Shape__Length">2.03866315443551</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-89.32265512,29.0350003930001 -89.010464902,29.259804943000098 -89.17320511,29.417734595000098 -89.599035968,29.4164069230001 -90.023570638,29.6743411110001 -90.045765063,29.699631389 -90.145492385999901,29.80748241 -90.220144361,29.872987781000099 -90.409217896,29.994480669</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">40</SimpleData>
+		<SimpleData name="Opername">SHELL</SimpleData>
+		<SimpleData name="Pipename">Houma\Convent</SimpleData>
+		<SimpleData name="Shape_Leng">0.479650694043</SimpleData>
+		<SimpleData name="Shape__Length">0.479650694042937</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-90.859830054,30.010079803 -90.90410015099999,29.9942999360001 -90.688486578,29.619201508</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">41</SimpleData>
+		<SimpleData name="Opername">SHELL</SimpleData>
+		<SimpleData name="Pipename">Houston\Houma</SimpleData>
+		<SimpleData name="Shape_Leng">4.88086770042</SimpleData>
+		<SimpleData name="Shape__Length">4.88086770041901</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-90.688486578,29.619201508 -90.933084814,29.626363272000098 -91.334644714,29.692594661 -91.87178586,29.96115145 -92.064650074,29.897153087000099 -92.574457481,30.022077991000099 -92.851563905,30.102247648000102 -93.316946034,30.147554252000099 -93.347008513,30.148792205000099 -93.54019239,30.081752275 -93.854514185,30.027951113 -93.95965147,29.941852003000101 -94.107659669,29.938837269 -94.513500581999907,29.9305684290001 -95.122386811,29.8263659620001 -95.234480893,29.806457058 -95.223229094,29.637245708</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">42</SimpleData>
+		<SimpleData name="Opername">SHELL</SimpleData>
+		<SimpleData name="Pipename">Mars</SimpleData>
+		<SimpleData name="Shape_Leng">0.426468004219</SimpleData>
+		<SimpleData name="Shape__Length">0.426468004219327</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-90.19384051,29.126433889000101 -90.26922864399999,29.546185706000099</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">43</SimpleData>
+		<SimpleData name="Opername">SHELL</SimpleData>
+		<SimpleData name="Pipename">Nederland Terminal</SimpleData>
+		<SimpleData name="Shape_Leng">0.154344215807</SimpleData>
+		<SimpleData name="Shape__Length">0.154344215806828</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-94.107659669,29.938837269 -94.108649131,29.98618142 -94.001659791999899,29.9858935120001</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">44</SimpleData>
+		<SimpleData name="Opername">SHELL</SimpleData>
+		<SimpleData name="Pipename">Ship Shoal</SimpleData>
+		<SimpleData name="Shape_Leng">1.37628518213</SimpleData>
+		<SimpleData name="Shape__Length">1.37628518213009</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-91.382445689999898,28.767719006 -91.002096732,29.359965577 -90.845760704,30.013962786</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">45</SimpleData>
+		<SimpleData name="Opername">SPECTRA ENERGY</SimpleData>
+		<SimpleData name="Pipename">Express System</SimpleData>
+		<SimpleData name="Shape_Leng">12.1559401124</SimpleData>
+		<SimpleData name="Shape__Length">12.1559401123841</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-111.305067931,52.682426654 -111.073413156,49.818185035000099 -110.332174372,49.033293208 -110.177043886,47.542249484000102 -109.694374485,46.496305838000097 -108.694534773,45.27236264 -107.936033691,44.170024691 -107.78088932199999,43.385891226000098 -106.030596815,42.838480704000098</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">46</SimpleData>
+		<SimpleData name="Opername">SPECTRA ENERGY</SimpleData>
+		<SimpleData name="Pipename">Platte Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">16.6174578778</SimpleData>
+		<SimpleData name="Shape__Length">16.6174578778155</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-106.030596815,42.838480704000098 -105.419818624,42.757944381000101 -103.870525579,41.642422029000102 -99.32652634,40.393789103000103 -96.394216425,39.938267849000098 -94.63193509,39.644803677 -92.3879581959999,39.332413502000101 -90.580437122,38.853366715 -90.090223569,38.845258029</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">47</SimpleData>
+		<SimpleData name="Opername">TRANSCANADA</SimpleData>
+		<SimpleData name="Pipename">Keystone</SimpleData>
+		<SimpleData name="Shape_Leng">4.12284487244</SimpleData>
+		<SimpleData name="Shape__Length">4.1228448724356</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.998404651,39.997340138 -97.0519304379999,38.840711220000102 -97.04158669,37.074099925 -97.145328070999895,36.642484721000102 -97.041590092,36.275373792 -96.806047023,35.986227703000097</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">48</SimpleData>
+		<SimpleData name="Opername">TRANSCANADA</SimpleData>
+		<SimpleData name="Pipename">Keystone</SimpleData>
+		<SimpleData name="Shape_Leng">8.04123529726</SimpleData>
+		<SimpleData name="Shape__Length">8.04123529726348</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.999219759,40.02654489 -93.991657139,39.588197113 -92.777924019999901,39.444161638 -91.335969033,39.082733786000098 -90.614532085999898,38.8660027620001 -89.076369572,38.79507765</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">49</SimpleData>
+		<SimpleData name="Opername">TRANSCANADA</SimpleData>
+		<SimpleData name="Pipename">Keystone</SimpleData>
+		<SimpleData name="Shape_Leng">15.0855503861</SimpleData>
+		<SimpleData name="Shape__Length">15.0855503861377</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-111.305067931,52.682426654 -110.275275011,50.879830552 -98.006631835999897,49.681250535000103 -97.958617922,49.000454779</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">50</SimpleData>
+		<SimpleData name="Opername">TRANSCANADA</SimpleData>
+		<SimpleData name="Pipename">Keystone</SimpleData>
+		<SimpleData name="Shape_Leng">9.11696540587</SimpleData>
+		<SimpleData name="Shape__Length">9.11696540586793</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-97.958617922,49.000454779 -97.92761427799999,47.706147383 -97.906900848,45.946046040000098 -97.923348717,44.56595278 -97.363158552999906,42.871678493 -96.998404651,39.997340138</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">51</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">Amdel</SimpleData>
+		<SimpleData name="Shape_Leng">8.32210237502</SimpleData>
+		<SimpleData name="Shape__Length">8.32210237502474</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-94.002451881,29.988927482000101 -94.413670565,30.110615855 -96.52028606499999,30.897375286000099 -97.362859755,31.146557099000098 -98.645341964999901,31.598523664 -100.587049263,31.855714200000101 -100.708975632,31.850051824000101 -100.728540139,31.842573909000102 -100.785292543,31.869835806 -101.314669151,31.920015493000101 -102.018307281,32.012575539000103</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">52</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">Amdel</SimpleData>
+		<SimpleData name="Shape_Leng">0.368344470974</SimpleData>
+		<SimpleData name="Shape__Length">0.368344470973642</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-101.314859164,31.920913464000101 -101.319287519,31.948361586 -101.318691734,31.971832853 -101.314933268,32.027031016 -101.32695709799999,32.074099284 -101.352130102,32.114127746000101 -101.360978577,32.138030849000103 -101.38399576499999,32.196649634 -101.392221224,32.220507733 -101.410779297,32.269265991000097</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">53</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">Kilgore</SimpleData>
+		<SimpleData name="Shape_Leng">2.75707107632</SimpleData>
+		<SimpleData name="Shape__Length">2.75707107631708</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-94.83758722,32.482593769000097 -94.886017647999907,32.221082768 -94.891534596,31.629156838 -94.971980169999895,30.505801445 -95.088577223999906,30.039370867 -95.12417736899999,29.749401536</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">54</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">Texas</SimpleData>
+		<SimpleData name="Shape_Leng">2.96497732822</SimpleData>
+		<SimpleData name="Shape__Length">2.96497732822493</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-94.006456,29.986617544000101 -94.39486304899999,30.128508512 -94.841789521,31.601833525000099 -94.979528057,32.143751745 -94.828017366,32.570340216 -94.828017366,32.570340216</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">55</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">Millenium</SimpleData>
+		<SimpleData name="Shape_Leng">2.7977154036</SimpleData>
+		<SimpleData name="Shape__Length">2.79771540360325</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-94.006175030999898,29.988970513 -94.352950688,30.129854560000101 -94.786695535,31.582280176 -94.85097371499999,31.87124327 -94.826027895,32.482313903</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">56</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">Texas</SimpleData>
+		<SimpleData name="Shape_Leng">4.33132909128</SimpleData>
+		<SimpleData name="Shape__Length">4.33132909128408</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.563407799999894,30.845780711 -97.542106899,31.698084975 -98.471234722999895,32.071483419000103 -98.520789572999902,32.165908385000101 -99.650536093,32.622233655000102 -99.806057654,32.633258427 -100.077860405,32.637735486 -100.211087576,32.88328819</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">57</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">Mesa</SimpleData>
+		<SimpleData name="Shape_Leng">1.29738825924</SimpleData>
+		<SimpleData name="Shape__Length">1.29738825923876</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-102.018574288,32.012559537000101 -101.441203727,32.314674491000098 -100.83207391099999,32.529048278</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">58</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">Texas</SimpleData>
+		<SimpleData name="Shape_Leng">0.30254328437</SimpleData>
+		<SimpleData name="Shape__Length">0.30254328437024</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-100.834057933,32.527375318000097 -100.545158975,32.617207556</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">59</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">Texas</SimpleData>
+		<SimpleData name="Shape_Leng">4.16566554231</SimpleData>
+		<SimpleData name="Shape__Length">4.16566554231247</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-101.350000384,35.688720234000101 -100.939355627,35.485942524000102 -100.913057353,35.246167094 -100.821843275,35.170879476 -100.30064153799999,34.469337735000103 -99.931444939,33.398046232000098 -99.79843354099999,32.648230080000097 -99.865691244999894,32.397088961000101 -99.865691244999894,32.397088961000101 -100.15394736899999,32.259066767</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">60</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">Texas</SimpleData>
+		<SimpleData name="Shape_Leng">0.229954857329</SimpleData>
+		<SimpleData name="Shape__Length">0.229954857329268</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-100.821841275,35.170878475 -100.599792411,35.230657555</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">61</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename"></SimpleData>
+		<SimpleData name="Shape_Leng">0.0890290071193</SimpleData>
+		<SimpleData name="Shape__Length">0.089029007119344</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-99.931779945,33.399502192000099 -99.95820582,33.386392141 -99.973908292,33.3924677810001 -99.996122010999898,33.385112654000103 -99.996122010999898,33.385112654000103 -100.0148887,33.389589263000097</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">62</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">West Texas Gulf</SimpleData>
+		<SimpleData name="Shape_Leng">7.61341155168</SimpleData>
+		<SimpleData name="Shape__Length">7.61341155167748</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-94.002701862,29.987374503000101 -94.059968235,29.991956917 -94.10703197799999,29.976498581 -94.383121687,30.1326544470001 -94.488717688999898,30.222230294 -95.420865327,31.041184180000101 -96.399525882,31.78595663 -98.097021706,32.400816719 -98.729249728999903,32.504732668 -99.811826642,32.383485803 -100.276188115,32.472365421000099 -100.420823525,32.437489762 -100.833915949,32.528925272</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">63</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">West Texas Gulf</SimpleData>
+		<SimpleData name="Shape_Leng">1.79827374143</SimpleData>
+		<SimpleData name="Shape__Length">1.79827374142774</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.399456881,31.786136625 -95.137488811,32.566224621000103 -95.009387800999903,32.553675 -94.837628222,32.482431775000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">64</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">Central Texas</SimpleData>
+		<SimpleData name="Shape_Leng">3.16990559999</SimpleData>
+		<SimpleData name="Shape__Length">3.16990559999055</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.399457874,31.785149662 -96.474160648999899,32.0702904830001 -97.04627143,32.515708913 -97.7507869,33.552647738000097 -97.955557857,33.864130751000097 -98.11185418399999,33.838723955 -98.231728828,33.944855397 -98.435515735,33.920488428</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">65</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">Texas</SimpleData>
+		<SimpleData name="Shape_Leng">1.71037080584</SimpleData>
+		<SimpleData name="Shape__Length">1.71037080583607</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.476418727,32.069011515000099 -96.06024064099999,32.112895519000098 -94.901238027,32.412373594 -94.839339268999893,32.484197694000102</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">66</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">Texas</SimpleData>
+		<SimpleData name="Shape_Leng">3.00832295559</SimpleData>
+		<SimpleData name="Shape__Length">3.00832295558688</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-98.666266688999897,33.004125492000099 -98.902457442,32.752889296 -98.682645231,32.514579795 -98.702526131999903,32.448169416 -98.469651709999894,32.073279379 -99.936887887,31.7350796600001 -100.047061902,31.650044219000101 -100.213656132,31.572506881</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">67</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename"></SimpleData>
+		<SimpleData name="Shape_Leng">0.39397407435</SimpleData>
+		<SimpleData name="Shape__Length">0.393974074350103</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-99.938222843999895,31.732360756 -100.16718939499999,32.05296938</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">68</SimpleData>
+		<SimpleData name="Opername">ALYESKA PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Trans Alaska Pipeline System (TAPS)</SimpleData>
+		<SimpleData name="Shape_Leng">14.4630960741</SimpleData>
+		<SimpleData name="Shape__Length">14.463096074113</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-148.621837792,70.256491311 -148.92769844599999,68.742433398000102 -150.695363652999987,66.580851354 -149.78981647099999,65.83294394799999 -148.989230066,65.648821054000095 -147.627165252,64.936765976000103 -147.268099677,64.749721384000097 -146.771443118,64.548769931 -146.210380362,64.363141644000095 -145.71427775399999,64.043350239000105 -145.85658282599999,63.707542787000101 -145.86313577199999,63.48580044 -145.7366332,63.400263034 -145.744796659,63.280474998 -145.511926117,63.170090204000097 -145.452058728,63.003814061000099 -145.47770253600001,62.107568583 -145.165064567,61.695042723 -145.227573954,61.543750423000098 -145.108698894000014,61.438496678 -145.296872769,61.3565468460001 -145.273544265,61.284484199000097 -145.38170059699999,61.213151190000097 -145.68691898899999,61.177357592000099 -145.92927685399999,61.038002693000102 -146.370502163999987,61.082697678</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">69</SimpleData>
+		<SimpleData name="Opername">PORTLAND PIPELINE</SimpleData>
+		<SimpleData name="Pipename"></SimpleData>
+		<SimpleData name="Shape_Leng">4.03579651652</SimpleData>
+		<SimpleData name="Shape__Length">4.03579651651564</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.66703317699999,45.477815631000098 -73.245990710999905,45.2656362600001 -72.422478458999905,44.984832254 -72.226158428,44.762209929 -71.366097328,44.356608876 -70.922287349,44.408103675000099 -70.643393757999903,44.184393588 -70.29924829,43.642189164000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">70</SimpleData>
+		<SimpleData name="Opername">BUTTE PIPELINE</SimpleData>
+		<SimpleData name="Pipename">BUTTE PIPELINE</SimpleData>
+		<SimpleData name="Shape_Leng">4.5636661789</SimpleData>
+		<SimpleData name="Shape__Length">4.56366617890236</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-104.450770563,46.390114944000103 -104.716729204,45.152217720000102 -104.807681935,44.466760075 -104.388259717,43.982572047000097 -104.341385012,42.991287273000097 -104.492869565,42.19124989 -104.648414599,42.223347968</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">71</SimpleData>
+		<SimpleData name="Opername">PHILLIPS 66 PIPELINE</SimpleData>
+		<SimpleData name="Pipename">BUXTON TO BORGER CRUDE</SimpleData>
+		<SimpleData name="Shape_Leng">4.66570476639</SimpleData>
+		<SimpleData name="Shape__Length">4.66570476639021</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-101.356850619,35.689893213000097 -101.108637623,35.494363344000099 -99.367321198,35.444110686 -98.417697182,35.64515341 -96.816183184,35.984223409</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">72</SimpleData>
+		<SimpleData name="Opername">PHILLIPS 66 PIPELINE</SimpleData>
+		<SimpleData name="Pipename">GLACIER</SimpleData>
+		<SimpleData name="Shape_Leng">5.98691043909</SimpleData>
+		<SimpleData name="Shape__Length">5.98691043908854</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-113.386862646,48.9965780570001 -112.308695609,48.617373702000101 -111.95954425,48.147595093000099 -111.116725953,47.639179932 -110.820599154,47.342055052 -110.308850246,47.142084949 -109.465884586,46.6215691290001 -108.434194812,45.806600245</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">73</SimpleData>
+		<SimpleData name="Opername">PHILLIPS 66 PIPELINE</SimpleData>
+		<SimpleData name="Pipename">JUNCTION TO RODEO REFINERY</SimpleData>
+		<SimpleData name="Shape_Leng">3.42838320286</SimpleData>
+		<SimpleData name="Shape__Length">3.42838320286292</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.242389867,38.040332282000101 -122.11757379,37.990480095000102 -122.034729441,37.996193619 -121.589495156,37.758308602 -121.157843768,37.434253093 -121.03652793099999,37.0875283620001 -120.269193981,36.282278008000098 -120.252511209,36.148819363 -120.126724059,35.963982777000098 -119.974492211,35.672698742000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">74</SimpleData>
+		<SimpleData name="Opername">PHILLIPS 66 PIPELINE</SimpleData>
+		<SimpleData name="Pipename"></SimpleData>
+		<SimpleData name="Shape_Leng">1.66921048959</SimpleData>
+		<SimpleData name="Shape__Length">1.66921048958965</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-120.430358794,34.726457004000103 -120.445013264,34.935287406 -120.462687184,35.0179501100001 -120.52782969099999,35.0719284850001 -120.57852409199999,35.043697449 -120.61132858,35.150859562 -120.653150115,35.179453302000098 -120.679991669,35.247877945 -120.621966611,35.318314177 -120.639916927,35.373140628 -120.602515008,35.407171152 -120.565199342,35.41098299 -120.523294539,35.520199492000103 -120.423383348,35.588976116 -120.282251777,35.734732272 -120.224784947,35.743603280000102 -119.974492211,35.672698742000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">75</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Kiantone pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">2.27233791819</SimpleData>
+		<SimpleData name="Shape__Length">2.27233791818648</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.12021567399999,41.8288838980001 -78.840873862,42.54721393 -78.82313664199999,42.863458338 -78.858200221999894,42.996055204000101 -79.905423018999898,43.027955296000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">76</SimpleData>
+		<SimpleData name="Opername">PHILLIPS 66 PIPELINE</SimpleData>
+		<SimpleData name="Pipename"></SimpleData>
+		<SimpleData name="Shape_Leng">0.83244970302</SimpleData>
+		<SimpleData name="Shape__Length">0.832449703019645</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-119.391246112,35.098122065 -119.642308989,35.317882487000098 -119.980657267,35.684371611000103</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">77</SimpleData>
+		<SimpleData name="Opername">PHILLIPS 66 PIPELINE</SimpleData>
+		<SimpleData name="Pipename"></SimpleData>
+		<SimpleData name="Shape_Leng">0.274529542279</SimpleData>
+		<SimpleData name="Shape__Length">0.274529542278878</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-119.380997444,35.233723435 -119.642308989,35.317882487000098</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">78</SimpleData>
+		<SimpleData name="Opername">EXXONMOBIL</SimpleData>
+		<SimpleData name="Pipename">Pegasus</SimpleData>
+		<SimpleData name="Shape_Leng">10.1177276255</SimpleData>
+		<SimpleData name="Shape__Length">10.1177276254989</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-89.069372229,38.794244677000101 -89.12266005,38.708482305000103 -90.071051917,37.598157327 -90.434926827,37.316045700000103 -90.727098213,36.822379224 -91.012200805,36.309078894 -91.23862433399999,35.995848073 -91.842499227,35.361424267000103 -93.387525717999907,34.4234229690001 -93.545552401999899,34.288886311 -94.63257171399999,33.5664327040001 -96.468599573999896,32.095299642</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">79</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">Mid Valley Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">17.5743462225</SimpleData>
+		<SimpleData name="Shape__Length">17.5743462224763</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-94.824162841,32.484604843000099 -93.759569934999902,32.7013991910001 -93.17224556399999,32.947475454 -91.192349733999905,32.892790297 -91.051739006,32.879275888000102 -90.135215816,33.858950846 -89.96227751799999,34.056030554000102 -89.93148972199999,34.164282235 -89.74242787599999,34.27567029 -88.390326779,35.618759592000103 -88.051433403,35.985349907 -87.96528206399999,36.015340523000098 -87.42529306199999,36.521701928 -86.196998822,37.492010584000099 -85.760466143,37.815764343000097 -84.90346346,38.686239521000097 -84.75899327899999,38.842920226 -84.68011021,39.085181222000102 -84.681097193,39.28833698 -84.202113823,40.5928349120001 -84.122534951,40.710118541 -83.698939829,41.086295884 -83.545330584,41.446003255 -83.508054769999902,41.630497602000098 -83.609010408,41.916299013000099 -83.33556979399999,42.438796626000098 -82.786422398999903,42.768305773000101 -82.639785331,42.896723757000103 -82.490013997999895,42.886702983000099</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">80</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">Mid Valley Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">0.288451961502</SimpleData>
+		<SimpleData name="Shape__Length">0.288451961502308</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-93.17224556399999,32.947475454 -93.16108013,33.2357112380001</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">81</SimpleData>
+		<SimpleData name="Opername">SUNOCO</SimpleData>
+		<SimpleData name="Pipename">Mid Valley Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">0.568408798302</SimpleData>
+		<SimpleData name="Shape__Length">0.568408798301636</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-91.192349733999905,32.892790297 -91.304167521999901,32.662785651 -91.433945229999907,32.602103352 -91.48201153,32.548837203000097 -91.511651489,32.455791205</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">82</SimpleData>
+		<SimpleData name="Opername">KOCH PIPELINE</SimpleData>
+		<SimpleData name="Pipename">MINNCAN PIPELINE SYSTEM</SimpleData>
+		<SimpleData name="Shape_Leng">13.1915902332</SimpleData>
+		<SimpleData name="Shape__Length">13.191590233201</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-95.411857628999897,47.684616309 -95.156750849,47.259993798 -95.09866841199999,46.689949546 -94.597779609,46.159468594 -94.535489086,45.265654191000102 -94.368902933,45.145878183 -94.22082702199999,45.08814442 -94.184341070999906,44.880646587000101 -93.958873061999896,44.73946599 -93.788244941999906,44.579429539 -93.275723296,44.562209245000098 -93.035486799,44.6595987090001 -93.23371566,44.555041545 -93.356946459,43.639123135 -93.539121831,41.255450818000099 -93.748821391,41.039736594 -93.79732437,40.782973066000103 -93.917697463,40.630063468000102 -93.938812541999894,40.562090789000102 -91.627078627999893,39.221109995 -91.048964430999902,38.961021873 -90.079793185,38.832946075</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">83</SimpleData>
+		<SimpleData name="Opername">KOCH PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Minnesota Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">4.28159310217</SimpleData>
+		<SimpleData name="Shape__Length">4.28159310216722</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-95.41231866,47.683995312 -95.199838063999906,47.2549002270001 -95.154278344,46.67262279 -94.646542368,46.140000146 -94.189908408999898,45.822608632 -93.480077341,45.362430989000103 -92.944284919,45.107827639 -92.983829235,44.804667788000103 -93.049004308999898,44.774755496000097 -93.035152825999901,44.665468713</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">84</SimpleData>
+		<SimpleData name="Opername">WESTERN GAS</SimpleData>
+		<SimpleData name="Pipename">White Cliffs Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">9.06648099117</SimpleData>
+		<SimpleData name="Shape__Length">9.06648099117098</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-104.602090578,40.203750871000103 -100.855285696,38.691895018 -98.439983242,37.679016617 -96.720385743999898,35.994690090000098</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">85</SimpleData>
+		<SimpleData name="Opername">MARATHON PIPE LINE</SimpleData>
+		<SimpleData name="Pipename">PATOKA - MARTINSVILLE</SimpleData>
+		<SimpleData name="Shape_Leng">9.14254331928</SimpleData>
+		<SimpleData name="Shape__Length">9.14254331928199</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-90.094520665999895,38.828709230000101 -89.071146313,38.794248673 -85.815053666,40.3039940990001 -84.13367626,40.708631472 -81.411664776999899,40.691806096 -81.409272879999904,40.769836533</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">86</SimpleData>
+		<SimpleData name="Opername">MARATHON PIPE LINE</SimpleData>
+		<SimpleData name="Pipename">PATOKA - OWENSBORO</SimpleData>
+		<SimpleData name="Shape_Leng">6.82186188804</SimpleData>
+		<SimpleData name="Shape__Length">6.82186188803944</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-89.069372229,38.794244677000101 -87.496317104999903,38.117799253 -87.355895836999906,37.9387256320001 -87.067440968,37.775054115 -85.753967046999904,37.818659294 -85.559278061,37.865068566 -84.842713746,37.938388731 -84.301733783,37.941852699 -83.722259957999896,38.077535305 -83.49766826299999,38.147005721 -83.253355578,38.183864480000103 -82.817553706999902,38.296423411 -82.592749069,38.399370121000103</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">87</SimpleData>
+		<SimpleData name="Opername">MARATHON PIPE LINE</SimpleData>
+		<SimpleData name="Pipename">PATOKA - ROBINSON</SimpleData>
+		<SimpleData name="Shape_Leng">1.37147712153</SimpleData>
+		<SimpleData name="Shape__Length">1.37147712153064</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-89.06899821099999,38.794235678000099 -88.346361983999898,38.930630734 -87.71334329,38.992976552000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">88</SimpleData>
+		<SimpleData name="Opername">MARATHON PIPE LINE</SimpleData>
+		<SimpleData name="Pipename">PATOKA - DIETERICH</SimpleData>
+		<SimpleData name="Shape_Leng">0.69732487202</SimpleData>
+		<SimpleData name="Shape__Length">0.697324872019674</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-89.06956128,38.797088638 -88.415161461,39.037967973</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">89</SimpleData>
+		<SimpleData name="Opername">CHS ENERGY</SimpleData>
+		<SimpleData name="Pipename">Front Range</SimpleData>
+		<SimpleData name="Shape_Leng">5.27592381085</SimpleData>
+		<SimpleData name="Shape__Length">5.27592381084742</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-112.12038936499999,48.998696169 -112.16435780099999,48.980032133000101 -112.190405502,48.860832824000099 -112.242342531,48.821253831 -112.355869854,48.714382622000102 -112.116679171,48.236255623 -111.917408574,48.193860276000102 -111.287129104,47.553802499 -111.050954613,47.5251325770001 -110.060606595,46.994857944 -109.410533636,46.086567879 -108.771337282,45.657145249</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">90</SimpleData>
+		<SimpleData name="Opername">BP Pipelines (North America)</SimpleData>
+		<SimpleData name="Pipename">Cushing to Whiting</SimpleData>
+		<SimpleData name="Shape_Leng">11.4784098703</SimpleData>
+		<SimpleData name="Shape__Length">11.4784098702667</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.750522351,35.944734858000103 -96.5938757119999,35.9840862 -96.491251258,36.1892520970001 -96.415630108999906,36.298165731 -96.377818217,36.485134938 -95.924065437,37.107993323000102 -95.745816937,37.241417459 -95.416333491,37.798338004000101 -94.930192429,38.279051334 -93.893104149,39.063435528000099 -92.040387921,40.339263655 -91.354388728999893,40.606355079 -91.116721196,40.626856674000102 -90.614384284,40.8601235900001 -89.426039817999893,40.937695261000101 -88.496981352,41.210518008000101 -88.221507153999895,41.332310435000103 -88.032451296,41.344477521000101 -87.985799985,41.422499593 -87.631400310999894,41.444399709 -87.487329498999898,41.667936575</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">91</SimpleData>
+		<SimpleData name="Opername">PHILLIPS 66 PIPELINE</SimpleData>
+		<SimpleData name="Pipename">PONCA TANK FARM TO WICHITA FALLS</SimpleData>
+		<SimpleData name="Shape_Leng">2.82975561158</SimpleData>
+		<SimpleData name="Shape__Length">2.82975561158193</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-97.441975543999902,35.467114169000098 -97.609260315,34.865295848000102 -98.006917792,34.380318288000097 -98.492395646,33.937587933 -98.647063057,33.828275448000099 -98.6976619,33.720182436000101 -98.828203396,33.441315320000101 -99.057812866999896,33.241677814000099</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">92</SimpleData>
+		<SimpleData name="Opername">PHILLIPS 66 PIPELINE</SimpleData>
+		<SimpleData name="Pipename">PREDO TO CARSON2</SimpleData>
+		<SimpleData name="Shape_Leng">1.53558177832</SimpleData>
+		<SimpleData name="Shape__Length">1.5355817783207</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-98.6976619,33.720182436000101 -98.444278361,33.379116763000098 -98.111897146,33.132853733 -98.257292516999897,32.94210159 -98.449602111,32.991990219000101 -98.578646995,33.066123465 -98.661008541,32.993691805</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">93</SimpleData>
+		<SimpleData name="Opername">PHILLIPS 66 PIPELINE</SimpleData>
+		<SimpleData name="Pipename"></SimpleData>
+		<SimpleData name="Shape_Leng">4.34834534237</SimpleData>
+		<SimpleData name="Shape__Length">4.34834534236888</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-101.360278754,35.68741326 -101.54547234899999,35.272556374 -101.786418705,35.059079256000103 -102.975595747,33.007237499 -103.064634283,32.684657986 -102.604358567,31.951179058</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">94</SimpleData>
+		<SimpleData name="Opername">CENTURION PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Centurion Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">6.24898085343</SimpleData>
+		<SimpleData name="Shape__Length">6.24898085342951</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.757467414,35.939669703 -97.371261665,35.744540343 -98.201686686,35.362684801 -99.15247314699999,34.82109129 -99.922729003,34.603446665 -100.560601912,34.2759101440001 -100.92166559499999,34.0767841 -101.862980746,33.730650172 -102.44373295699999,33.408851975</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">95</SimpleData>
+		<SimpleData name="Opername">CENTURION PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Centurion Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">2.56269646126</SimpleData>
+		<SimpleData name="Shape__Length">2.56269646126007</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-104.581732114,32.417907468000102 -104.56046886,32.524506131000102 -104.531295243,32.623820035 -104.473700956,32.651779114000099 -104.261372437,32.776624627 -103.603643394,33.061747987 -103.514692722,33.036896885 -103.114414804,33.0244573680001 -103.055112677,32.968503168 -102.306422591,32.987144664</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">96</SimpleData>
+		<SimpleData name="Opername">CENTURION PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Centurion Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">0.494738975484</SimpleData>
+		<SimpleData name="Shape__Length">0.494738975484325</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-104.263065491,32.776107621000101 -104.216487586,32.6043597950001 -104.202089316,32.526572625 -104.053891588,32.3407538330001</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">97</SimpleData>
+		<SimpleData name="Opername">CENTURION PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Centurion Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">0.501021251898</SimpleData>
+		<SimpleData name="Shape__Length">0.501021251898224</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-103.114666712,33.017207419 -103.110144641,33.316458492 -103.21875650299999,33.486461088000098</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">98</SimpleData>
+		<SimpleData name="Opername">CENTURION PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Centurion Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">0.303075004975</SimpleData>
+		<SimpleData name="Shape__Length">0.303075004974728</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-102.443754932,33.409990977000099 -102.579959934,33.408105434 -102.744707937,33.381660433 -102.744707937,33.381660433</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">99</SimpleData>
+		<SimpleData name="Opername">CENTURION PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Centurion Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">1.69656569498</SimpleData>
+		<SimpleData name="Shape__Length">1.69656569498014</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-102.445323006,33.410692006 -102.768582428,32.985083914 -102.844618641,32.481257665 -102.806579713,32.332764983000096 -102.811314897,31.881805591 -102.792298251,31.837395323000099</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">100</SimpleData>
+		<SimpleData name="Opername">CENTURION PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Centurion Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">0.613003439229</SimpleData>
+		<SimpleData name="Shape__Length">0.613003439228658</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-102.81131847,32.022967621000099 -102.52134148,32.035058592 -102.202844391,32.087431982000098</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">101</SimpleData>
+		<SimpleData name="Opername">CENTURION PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Centurion Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">1.3158894375</SimpleData>
+		<SimpleData name="Shape__Length">1.31588943749832</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-101.841556956,31.6271732270001 -101.836804039,31.675730923000099 -101.993677257,31.708085485 -102.031893667,32.012567402000101 -102.20759774,32.095486636 -102.73527569,32.39299156</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">102</SimpleData>
+		<SimpleData name="Opername">CENTURION PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Centurion Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">0.49138501782</SimpleData>
+		<SimpleData name="Shape__Length">0.491385017819655</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-103.053810824,32.973124133000098 -102.64972528,32.693527801000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">103</SimpleData>
+		<SimpleData name="Opername">CENTURION PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Centurion Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">2.09157631958</SimpleData>
+		<SimpleData name="Shape__Length">2.09157631957638</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-102.578431798,33.410694408 -102.635463809,32.697528481000099 -102.644962898,32.569426704000101 -102.58315051,32.340792544000102 -102.64019409399999,32.296605046 -102.621172159,32.119638885 -102.511834237,32.035058722 -102.354957787,31.432689283</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">104</SimpleData>
+		<SimpleData name="Opername">CENTURION PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Centurion Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">0.685195373371</SimpleData>
+		<SimpleData name="Shape__Length">0.685195373371471</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-102.031813666,32.012601402 -101.418291977,32.239450926000103 -101.416776439,32.270491927</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">105</SimpleData>
+		<SimpleData name="Opername">CENTURION PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Centurion Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">1.8107792142</SimpleData>
+		<SimpleData name="Shape__Length">1.81077921419559</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-100.82668292,32.539433994 -101.068777538,32.95160937 -101.31087002,33.134735384000102 -101.57658808,33.3520102250001 -101.860019797,33.735851091 -102.025349562,33.863422080000099</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">106</SimpleData>
+		<SimpleData name="Opername">KINDERMORGAN</SimpleData>
+		<SimpleData name="Pipename">TransMountain</SimpleData>
+		<SimpleData name="Shape_Leng">13.1332393989</SimpleData>
+		<SimpleData name="Shape__Length">13.1332393989032</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-113.521245909,53.509240806 -116.902071758,53.509228596000099 -117.461215068,53.385316498000101 -117.643265658,53.470541041 -118.176390977,53.128602249 -118.24140132,52.9801096260001 -118.55347815,52.97227436 -118.904575784,53.073938652 -119.50271657,53.073917387 -119.20363997699999,52.870337224000103 -119.138612738,52.697317705 -119.06057446,52.333322902000099 -119.203602297,52.022357204000102 -119.268595999,51.7655755850001 -119.385631149,51.572018824 -119.619695103,51.547759944000099 -119.918777473,51.555838261000098 -120.100826017,51.434399852000098 -120.087819804,51.141633469000098 -120.152826401,50.888042677 -120.28284974899999,50.666042518 -120.477901769,50.401560354 -120.659939197,50.077217569 -120.828987768,49.935169260000102 -120.867993522,49.675013762 -121.128051179,49.464186003000101 -121.492130561,49.294871763000103 -121.843205462,49.116467299000099 -122.14723252,49.0633080160001 -123.091515371,49.269398235</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">107</SimpleData>
+		<SimpleData name="Opername">KINDERMORGAN</SimpleData>
+		<SimpleData name="Pipename">TransMountain</SimpleData>
+		<SimpleData name="Shape_Leng">1.02514761848</SimpleData>
+		<SimpleData name="Shape__Length">1.02514761848392</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.14723252,49.0633080160001 -122.418408263,48.847094141000099 -122.418410587,48.718128479 -122.33103239099999,48.6512149960001 -122.322933545,48.471482672 -122.465450385,48.444098020000098 -122.562190808,48.462254507000097 -122.564739257,48.477884823000103</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">108</SimpleData>
+		<SimpleData name="Opername">KINDERMORGAN</SimpleData>
+		<SimpleData name="Pipename">TransMountain</SimpleData>
+		<SimpleData name="Shape_Leng">0.185320273466</SimpleData>
+		<SimpleData name="Shape__Length">0.185320273466014</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.418860263,48.847794154 -122.60378263,48.8599317790001</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">109</SimpleData>
+		<SimpleData name="Opername">EXXONMOBIL</SimpleData>
+		<SimpleData name="Pipename">Corsicana - Nederland</SimpleData>
+		<SimpleData name="Shape_Leng">3.19461242898</SimpleData>
+		<SimpleData name="Shape__Length">3.19461242898289</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.447143322,32.0186584590001 -95.940336849999895,31.692273671000098 -95.37206703299999,31.1826624330001 -94.474004328,30.336781614000099 -94.473303298,30.336121625 -93.998110551,29.979997561000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">110</SimpleData>
+		<SimpleData name="Opername">BP PIPELINE (ALASKA)</SimpleData>
+		<SimpleData name="Pipename">Alaska North Slope - Northstar</SimpleData>
+		<SimpleData name="Shape_Leng">0.25389304656</SimpleData>
+		<SimpleData name="Shape__Length">0.25389304655973</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-148.621837792,70.256491311 -148.70385185399999,70.496773172000104</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">111</SimpleData>
+		<SimpleData name="Opername">BP PIPELINE (ALASKA)</SimpleData>
+		<SimpleData name="Pipename">Alaska North Slope - Endicott</SimpleData>
+		<SimpleData name="Shape_Leng">0.727315454913</SimpleData>
+		<SimpleData name="Shape__Length">0.727315454912866</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-148.621837792,70.256491311 -148.030972588,70.254388576000096 -147.941559412,70.357456194000093</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">112</SimpleData>
+		<SimpleData name="Opername">BP PIPELINE (ALASKA)</SimpleData>
+		<SimpleData name="Pipename">Alaska North Slope - Badami</SimpleData>
+		<SimpleData name="Shape_Leng">0.944407197032</SimpleData>
+		<SimpleData name="Shape__Length">0.944407197032236</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-147.091933633,70.153836128000094 -148.030972588,70.254388576000096</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">113</SimpleData>
+		<SimpleData name="Opername">ALPINE TRANSPORTATION</SimpleData>
+		<SimpleData name="Pipename">Alpine Oil Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">1.16052715468</SimpleData>
+		<SimpleData name="Shape__Length">1.16052715468213</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-150.932860139000013,70.342658373 -150.991601393,70.322567011 -150.96270103099999,70.287592029 -150.853370162,70.245706187000096 -150.73470459399999,70.231650496 -150.628563930000013,70.230678981 -150.40033112099999,70.237096982000097 -150.215397897,70.246128936 -149.920769452,70.282605651</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">114</SimpleData>
+		<SimpleData name="Opername">KUPARUK TRANSPORTATION</SimpleData>
+		<SimpleData name="Pipename">Kuparuk Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">1.31438731038</SimpleData>
+		<SimpleData name="Shape__Length">1.3143873103832</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-149.920769452,70.282605651 -149.75913664,70.333314203 -149.40874805499999,70.321064630000095 -149.091513706,70.3082088150001 -148.939809903,70.292966884000094 -148.855823511000011,70.259477483000097 -148.621837792,70.256491311</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">115</SimpleData>
+		<SimpleData name="Opername">BP PIPELINE (ALASKA)</SimpleData>
+		<SimpleData name="Pipename">Alaska North Slope - Milne</SimpleData>
+		<SimpleData name="Shape_Leng">0.147354289965</SimpleData>
+		<SimpleData name="Shape__Length">0.147354289965368</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-149.40874805499999,70.321064630000095 -149.45194693,70.461944522000096</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">116</SimpleData>
+		<SimpleData name="Opername">ENI US OPERATING</SimpleData>
+		<SimpleData name="Pipename">Sales Oil Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">0.209806144867</SimpleData>
+		<SimpleData name="Shape__Length">0.209806144867211</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-149.871510437000012,70.510488547000094 -149.75913664,70.333314203</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">117</SimpleData>
+		<SimpleData name="Opername">BP PIPELINE (ALASKA)</SimpleData>
+		<SimpleData name="Pipename">Alaska North Slope - Lisburne</SimpleData>
+		<SimpleData name="Shape_Leng">0.190796532545</SimpleData>
+		<SimpleData name="Shape__Length">0.190796532545065</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-148.433881015999987,70.289287152 -148.621837792,70.256491311</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">118</SimpleData>
+		<SimpleData name="Opername">BP PIPELINE (ALASKA)</SimpleData>
+		<SimpleData name="Pipename">OT-21\OT-28</SimpleData>
+		<SimpleData name="Shape_Leng">0.251780249054</SimpleData>
+		<SimpleData name="Shape__Length">0.251780249054361</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-148.863547125,70.311458544000104 -148.738260602,70.305601309000096 -148.621837792,70.256491311</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">119</SimpleData>
+		<SimpleData name="Opername">EXXONMOBIL WEST COAST</SimpleData>
+		<SimpleData name="Pipename">San Joaquin Valley</SimpleData>
+		<SimpleData name="Shape_Leng">2.50760526169</SimpleData>
+		<SimpleData name="Shape__Length">2.50760526169201</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-119.767212263,35.676246221 -119.673805062,35.425750859000097 -119.473151157,35.115072819 -119.064924714,35.072614040000097 -118.86772800599999,34.834451134000098 -118.594424547,34.435978549 -118.473341535,34.298919045 -118.473338337,34.087178077 -118.333137748,33.852965697000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">120</SimpleData>
+		<SimpleData name="Opername">EXXONMOBIL WEST COAST</SimpleData>
+		<SimpleData name="Pipename">Torrance to KM Watson\Vernon</SimpleData>
+		<SimpleData name="Shape_Leng">0.280438487546</SimpleData>
+		<SimpleData name="Shape__Length">0.280438487546283</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-118.223920111,34.010701684 -118.22936726499999,34.008443839000101 -118.22846003,33.989629391000101 -118.238446338,33.988876504000103 -118.226643028,33.9188455930001 -118.277963447,33.915849453000099 -118.278822557,33.847209632 -118.333137748,33.852965697000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">121</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">North Dakota System</SimpleData>
+		<SimpleData name="Shape_Leng">0.926771295043</SimpleData>
+		<SimpleData name="Shape__Length">0.926771295042629</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-103.951060141,48.603886055 -104.456809432,48.599878084000103 -104.790780721,48.856216403000097</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">122</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename"></SimpleData>
+		<SimpleData name="Shape_Leng">1.19318997324</SimpleData>
+		<SimpleData name="Shape__Length">1.19318997324472</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-102.926552388,48.284781772 -103.776739383,48.261124694 -103.791223518,48.087279127000102 -103.662082005,47.979471629</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">123</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">North Dakota System</SimpleData>
+		<SimpleData name="Shape_Leng">0.291707588252</SimpleData>
+		<SimpleData name="Shape__Length">0.291707588251884</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-101.206610272,48.719661121000101 -100.914924461,48.716096755000102</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">124</SimpleData>
+		<SimpleData name="Opername">BRIDGER PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Poplar System</SimpleData>
+		<SimpleData name="Shape_Leng">2.90875646981</SimpleData>
+		<SimpleData name="Shape__Length">2.90875646980654</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-104.721313262,49.002091852 -104.790780721,48.856216403000097 -104.93489393199999,48.561858897 -105.130009767,48.232666654000099 -104.978704934,47.949309075 -104.852744886,47.366518371 -104.77744226199999,47.084277679000103 -104.7668266,46.961690735 -104.604955706,46.834753228000103 -104.559385172,46.739071522000103 -104.443748923,46.606653356 -104.450770563,46.390114944000103</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">125</SimpleData>
+		<SimpleData name="Opername">BRIDGER PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Poplar System</SimpleData>
+		<SimpleData name="Shape_Leng">0.237912805956</SimpleData>
+		<SimpleData name="Shape__Length">0.237912805955674</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-104.978704934,47.949309075 -104.936526156,47.909638666 -104.842657355,47.910820665000102 -104.76826618,47.867405295</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">126</SimpleData>
+		<SimpleData name="Opername">BRIDGER PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Four Bears Pipeline System</SimpleData>
+		<SimpleData name="Shape_Leng">2.7864491299</SimpleData>
+		<SimpleData name="Shape__Length">2.7864491298964</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-102.918420587,47.976997567000097 -102.904630318,47.752625626000103 -102.842322774,47.682757746 -102.847514034,47.647790578000098 -102.87866736399999,47.623298864 -102.847510906,47.472597710000102 -102.899433608,47.419927585 -102.894241027,47.328505275000097 -103.01366193,47.212242053000097 -103.003274532,47.070971316000097 -103.226537984,46.904499027 -103.29403840499999,46.904499232 -103.299231236,46.822845704 -103.418658855,46.755298818 -103.605587876,46.765970198 -104.020986001,46.687666406000098 -104.166374563,46.630647303 -104.223492177,46.5128543800001 -104.38965179,46.512853377 -104.450770563,46.390114944000103</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">127</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Rocky Mountain</SimpleData>
+		<SimpleData name="Shape_Leng">0.929970103663</SimpleData>
+		<SimpleData name="Shape__Length">0.929970103663199</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-111.548367133,40.722456455 -111.150322407,40.899649281000102 -111.05961928399999,41.063280398000103 -110.821034423,41.256764119</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">128</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Rocky Mountain</SimpleData>
+		<SimpleData name="Shape_Leng">0.181427517173</SimpleData>
+		<SimpleData name="Shape__Length">0.181427517172565</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-111.05961928399999,41.063280398000103 -111.069955526,41.244413239</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">129</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Rocky Mountain</SimpleData>
+		<SimpleData name="Shape_Leng">5.03455645144</SimpleData>
+		<SimpleData name="Shape__Length">5.03455645143736</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-106.372236921,42.862148156 -106.821423378,43.009167972 -107.08781904,43.038378394000098 -107.354136184,43.252422838 -107.659138002,43.347813202 -107.95360363099999,43.735285438000098 -108.49971339299999,43.908261922000101 -108.85935250599999,44.157231434 -109.019193294,44.471724124 -108.81939921599999,44.973288507 -108.613944077,45.155239563000102 -108.806084638,45.302127484 -108.771337282,45.657145249 -108.43656786,45.81489836</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">130</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Rocky Mountain</SimpleData>
+		<SimpleData name="Shape_Leng">1.04334044328</SimpleData>
+		<SimpleData name="Shape__Length">1.04334044328239</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-106.372236921,42.862148156 -106.248667958,43.339428758000103 -106.395190941,43.869887591000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">131</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Rocky Mountain</SimpleData>
+		<SimpleData name="Shape_Leng">5.48823424865</SimpleData>
+		<SimpleData name="Shape__Length">5.48823424864569</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-109.979686443,41.564031939000103 -109.44881994,41.532044609 -108.85264697,41.704185332000101 -108.331431788,41.634690842000097 -107.923704585,41.6822178460001 -107.403396777,41.774293230000097 -105.569355624,41.908657024 -105.396198666,42.126355259 -104.648414599,42.223347968</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">132</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Rocky Mountain</SimpleData>
+		<SimpleData name="Shape_Leng">1.29675799251</SimpleData>
+		<SimpleData name="Shape__Length">1.29675799250609</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-104.492869565,42.19124989 -104.716894125,41.918567995 -104.716894814,41.3211612160001 -104.688148252,41.117132314000102 -104.828277082,41.108386883</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">133</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Rocky Mountain</SimpleData>
+		<SimpleData name="Shape_Leng">2.26441088374</SimpleData>
+		<SimpleData name="Shape__Length">2.26441088374276</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-107.99747848,41.673617760000099 -107.627409075,41.032976595 -108.841912803,40.111413775000102</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">134</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">West Coast Systmem</SimpleData>
+		<SimpleData name="Shape_Leng">3.62078559611</SimpleData>
+		<SimpleData name="Shape__Length">3.62078559611241</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-118.23864306199999,33.8109765660001 -118.224756747,34.086535269 -118.56881507,34.370978236 -118.831689334,34.816466035000097 -119.001787673,35.06995664 -119.361308298,35.057302087 -119.457954067,34.959151576000103 -119.682172858,34.981328414000103 -120.076484109,35.101596488 -120.169267258,35.031990596000099 -120.219524338,35.019328899000101 -120.2620497,34.905281997 -120.16926829099999,34.756149403 -120.196328033,34.616290750000097 -120.246582595,34.495314295000099 -120.045559086,34.473012023</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">135</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Rocky Mountain</SimpleData>
+		<SimpleData name="Shape_Leng">1.91246095864</SimpleData>
+		<SimpleData name="Shape__Length">1.91246095864165</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-106.372236921,42.862148156 -105.7187042,42.872581821 -105.050923195,42.417609225 -104.999414916,42.369135507000102 -104.648414599,42.223347968</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">136</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Rocky Mountain</SimpleData>
+		<SimpleData name="Shape_Leng">0.736470499676</SimpleData>
+		<SimpleData name="Shape__Length">0.7364704996756</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-109.979686443,41.564031939000103 -110.226135025,42.175266135000101 -110.226135162,42.252688726</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">137</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">CK Red River</SimpleData>
+		<SimpleData name="Shape_Leng">5.22286194347</SimpleData>
+		<SimpleData name="Shape__Length">5.22286194347448</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.758547548,35.946983597 -96.680120039,35.761626147000101 -96.9630385359999,35.371559250000097 -97.559788041,34.225709960000103 -95.20388258,32.589516109 -94.839339268999893,32.484197694000102</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">138</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">ARKLATEX</SimpleData>
+		<SimpleData name="Shape_Leng">2.05387442774</SimpleData>
+		<SimpleData name="Shape__Length">2.05387442774488</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-94.83758722,32.482593769000097 -94.367542757,32.577591811 -94.02039302199999,32.556484657000098 -93.858379839999898,32.547988905000103 -93.77938344499999,32.515849983000102 -93.124851367,32.787114119000101 -92.876230586999895,32.893684558000103</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">139</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">ARKLATEX</SimpleData>
+		<SimpleData name="Shape_Leng">0.242668217286</SimpleData>
+		<SimpleData name="Shape__Length">0.242668217285597</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-93.124851367,32.787114119000101 -93.137605652,32.946518843 -93.061427664,32.978847600000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">140</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">ARKLATEX</SimpleData>
+		<SimpleData name="Shape_Leng">0.210433137756</SimpleData>
+		<SimpleData name="Shape__Length">0.210433137755619</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-94.02039302199999,32.556484657000098 -93.964578254999907,32.759380732000103</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">141</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Coffeyville</SimpleData>
+		<SimpleData name="Shape_Leng">1.48271447786</SimpleData>
+		<SimpleData name="Shape__Length">1.48271447785756</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-95.92896899,37.041519904 -95.918060629,36.871076278 -96.00289438,36.768022561000102 -95.984028807999906,36.557908152 -96.739379971,35.953369035</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">142</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Cherokee</SimpleData>
+		<SimpleData name="Shape_Leng">2.21128959832</SimpleData>
+		<SimpleData name="Shape__Length">2.2112895983162</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.744510256999902,35.956322887000098 -97.441975543999902,35.467114169000098 -97.390589432,35.1318542180001 -97.475755737,34.689770046 -97.546788659999905,34.480918211000102 -97.374071035,34.177225706</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">143</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Mississippi Alabama</SimpleData>
+		<SimpleData name="Shape_Leng">2.09912334289</SimpleData>
+		<SimpleData name="Shape__Length">2.0991233428852</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-91.554982724,32.447373589 -91.676292591,32.314805193 -91.419403646,31.770457411 -91.412267180999905,31.703703587000099 -91.169648286,31.545730083 -90.764918902,31.157672877 -90.591654727,31.009072432 -90.661588436,30.852051857</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">144</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Mississippi Alabama</SimpleData>
+		<SimpleData name="Shape_Leng">2.77267559788</SimpleData>
+		<SimpleData name="Shape__Length">2.77267559788034</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-90.764562940999895,31.16197881 -90.470349004,31.2045755440001 -89.977978762,31.137419155 -89.42851727599999,31.027422506 -88.650698167999906,30.856063299 -88.400939331,30.825429698 -88.179725340999894,30.8070447690001 -88.051280092999903,30.733473882000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">145</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Mississippi Alabama</SimpleData>
+		<SimpleData name="Shape_Leng">0.9651826255</SimpleData>
+		<SimpleData name="Shape__Length">0.965182625500085</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-89.42851727599999,31.027422506 -89.328617401,31.19847445 -89.207307971,31.289982421 -88.914738922999902,31.8310951670001</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">146</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Mississippi Alabama</SimpleData>
+		<SimpleData name="Shape_Leng">0.432839070371</SimpleData>
+		<SimpleData name="Shape__Length">0.432839070371418</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-91.419403646,31.770457411 -91.769056813,31.515325438</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">147</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Mississippi Alabama</SimpleData>
+		<SimpleData name="Shape_Leng">0.396166434613</SimpleData>
+		<SimpleData name="Shape__Length">0.396166434612721</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-88.993234486999896,31.903814205000099 -88.993234362,31.879580957 -88.914738922999902,31.8310951670001 -88.836244323,31.788649264000099 -88.714932929,31.812906029 -88.714932042,31.746184256</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">148</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Mississippi Alabama</SimpleData>
+		<SimpleData name="Shape_Leng">0.178571700213</SimpleData>
+		<SimpleData name="Shape__Length">0.178571700213482</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-88.179725340999894,30.8070447690001 -88.13691018,30.9050520390001 -88.065551912,30.898929042000098</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">149</SimpleData>
+		<SimpleData name="Opername">WESTERN REFINING</SimpleData>
+		<SimpleData name="Pipename">WESTERN REFINING</SimpleData>
+		<SimpleData name="Shape_Leng">5.41604028971</SimpleData>
+		<SimpleData name="Shape__Length">5.41604028970542</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-103.981176043,33.05146732 -104.832644965,34.014847459000102 -106.190158611,35.077201547000101 -107.218325289,35.8294281820001 -107.619954538,36.047179493 -108.14208067,36.476086212</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">150</SimpleData>
+		<SimpleData name="Opername">WESTERN REFINING</SimpleData>
+		<SimpleData name="Pipename">WESTERN REFINING</SimpleData>
+		<SimpleData name="Shape_Leng">2.42592526917</SimpleData>
+		<SimpleData name="Shape__Length">2.42592526917057</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-107.989460846,36.700440593 -108.14208067,36.476086212 -108.366990064,36.159353164 -108.479447493,35.684255039 -108.423126811,35.496514434000098 -108.021584748,35.532492528 -107.724377237,35.763440395 -107.619954538,36.047179493</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">151</SimpleData>
+		<SimpleData name="Opername">PLAINS PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Basin</SimpleData>
+		<SimpleData name="Shape_Leng">1.27309116983</SimpleData>
+		<SimpleData name="Shape__Length">1.27309116983152</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-103.176579063,32.064864651 -103.981176043,33.05146732</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">152</SimpleData>
+		<SimpleData name="Opername">HUNT CRUDE OIL SUPPLY</SimpleData>
+		<SimpleData name="Pipename">Hunt Oil</SimpleData>
+		<SimpleData name="Shape_Leng">1.56988725697</SimpleData>
+		<SimpleData name="Shape__Length">1.56988725697021</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-88.468883482,31.930278978 -88.374694967,32.089735918 -88.173124382,32.3374166360001 -88.077137831,32.483272896000102 -87.971551351,32.717765711 -87.889963423,32.794448396000099 -87.798776101,32.939560233000101 -87.717187811999906,33.0240988 -87.669194860999895,33.068348483000101 -87.635600655,33.196949060000101 -87.602004734,33.204980757</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">153</SimpleData>
+		<SimpleData name="Opername">HUNT CRUDE OIL SUPPLY</SimpleData>
+		<SimpleData name="Pipename">Hunt Oil</SimpleData>
+		<SimpleData name="Shape_Leng">0.94831924465</SimpleData>
+		<SimpleData name="Shape__Length">0.948319244649906</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-89.334568175,31.788373669000102 -89.190588197999901,31.800609546 -89.115364370999899,31.822724819 -89.046008561999898,31.824377725 -89.005255576,31.840992185000101 -88.940008319999905,31.886615505000101 -88.682682988,32.004548427 -88.649594658,32.037296567000098 -88.502606484999902,31.897581275</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">154</SimpleData>
+		<SimpleData name="Opername">HUNT CRUDE OIL SUPPLY</SimpleData>
+		<SimpleData name="Pipename">Hunt Oil</SimpleData>
+		<SimpleData name="Shape_Leng">0.331790682021</SimpleData>
+		<SimpleData name="Shape__Length">0.331790682021408</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-88.717626251,31.752405093 -88.678045219999902,31.7800150150001 -88.658761336,31.797267355 -88.63440466,31.840382785 -88.601927006,31.851589273 -88.562346313,31.877446221000099 -88.559301563,31.896403551000098 -88.504495623,31.8989882330001 -88.484197647,31.904156961000101 -88.468974524,31.931721928 -88.468974524,31.931721928</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">155</SimpleData>
+		<SimpleData name="Opername">HUNT CRUDE OIL SUPPLY</SimpleData>
+		<SimpleData name="Pipename">Hunt Oil</SimpleData>
+		<SimpleData name="Shape_Leng">0.324540094039</SimpleData>
+		<SimpleData name="Shape__Length">0.324540094039013</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-88.17972323,31.843830428 -88.24569114,31.8464159050001 -88.320795892,31.8731362840001 -88.440555686,31.881754542000099 -88.46998960099999,31.932582903</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">156</SimpleData>
+		<SimpleData name="Opername">HUNT CRUDE OIL SUPPLY</SimpleData>
+		<SimpleData name="Pipename">Hunt Oil</SimpleData>
+		<SimpleData name="Shape_Leng">0.0642874786895</SimpleData>
+		<SimpleData name="Shape__Length">0.064287478689515</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-89.006875499,31.817103926000101 -89.003830592,31.851590856 -88.98657708,31.875724049</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">157</SimpleData>
+		<SimpleData name="Opername">HUNT CRUDE OIL SUPPLY</SimpleData>
+		<SimpleData name="Pipename">Hunt Oil</SimpleData>
+		<SimpleData name="Shape_Leng">0.132604474332</SimpleData>
+		<SimpleData name="Shape__Length">0.132604474331742</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-88.278170245999902,31.898125222 -88.247721052,31.841243069 -88.179723252,31.844692401</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">158</SimpleData>
+		<SimpleData name="Opername">GENESIS ENERGY</SimpleData>
+		<SimpleData name="Pipename">Genesis Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">1.68117748562</SimpleData>
+		<SimpleData name="Shape__Length">1.68117748562341</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-90.773687014,31.165193711 -90.702051892,31.228580116 -90.667528569999902,31.260617901 -90.654808294,31.273067841000099 -90.640514025,31.282343820000101 -90.614530466,31.307757673 -90.581168764,31.338955474 -90.561319357999906,31.356449353000102 -90.508073299,31.400537017 -90.463555807,31.442979330000099 -90.429460745,31.453868023 -90.415115239,31.465852773 -90.339100727,31.509096544 -90.194243126,31.575167051 -90.022862715,31.651611625 -89.86984405299999,31.724522505 -89.814757486,31.738404182000099 -89.64949856699999,31.738403476 -89.55156655899999,31.766158999 -89.372026269999907,31.785236072 -89.27817458299999,31.800840819 -89.28225574,31.806042698000098</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">159</SimpleData>
+		<SimpleData name="Opername">GENESIS ENERGY</SimpleData>
+		<SimpleData name="Pipename">Genesis Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">0.54695988</SimpleData>
+		<SimpleData name="Shape__Length">0.546959879999918</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-89.814757473,31.741874091 -89.755590791,31.797376516000099 -89.680523615,31.866813058 -89.666088226,31.880165601 -89.664295256999907,31.943466790000102 -89.757630674,31.994833505 -89.846057297999906,31.9496004280001 -89.914908289,31.920555047</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">160</SimpleData>
+		<SimpleData name="Opername">GENESIS ENERGY</SimpleData>
+		<SimpleData name="Pipename">Genesis Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">0.0675217155492</SimpleData>
+		<SimpleData name="Shape__Length">0.067521715549195</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-90.614692468,31.307757672 -90.605418336,31.30874471 -90.598593238,31.309670735 -90.582871025,31.310023814 -90.570318831999899,31.313166842 -90.556300656999895,31.311751932000099 -90.55122559,31.31164296 -90.549245541,31.3144999350001</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">161</SimpleData>
+		<SimpleData name="Opername">GENESIS ENERGY</SimpleData>
+		<SimpleData name="Pipename">Genesis Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">0.190589599656</SimpleData>
+		<SimpleData name="Shape__Length">0.19058959965566</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-90.415115239,31.465852773 -90.432629558,31.4887725150001 -90.430911217999906,31.5230106120001 -90.45743379699999,31.542138143 -90.492117624999906,31.557785816 -90.492117494999903,31.571692365 -90.51251969099999,31.594285650000099 -90.524760892,31.592547686</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">162</SimpleData>
+		<SimpleData name="Opername">GENESIS ENERGY</SimpleData>
+		<SimpleData name="Pipename">Genesis Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">0.129656150866</SimpleData>
+		<SimpleData name="Shape__Length">0.12965615086556</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-90.415115239,31.465852773 -90.411378194999898,31.4579008790001 -90.371744959999901,31.343713574000098</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">163</SimpleData>
+		<SimpleData name="Opername">GENESIS ENERGY</SimpleData>
+		<SimpleData name="Pipename">Genesis Pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">0.0874539549719</SimpleData>
+		<SimpleData name="Shape__Length">0.087453954971878</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-89.664295256999907,31.943466790000102 -89.582664232999903,31.974844651000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">164</SimpleData>
+		<SimpleData name="Opername">KOCH PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Koch pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">2.06929087295</SimpleData>
+		<SimpleData name="Shape__Length">2.06929087294975</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-98.464291981,26.65470284 -98.411644552,26.809532022 -98.117451156,27.116096288 -98.0524195899999,27.15944876 -98.067902660999906,27.326664374000099 -98.098870103,27.407174689 -98.046224810999902,27.469107165 -97.928549298999897,27.546521982 -97.92854945,27.661094791 -97.854227169,27.772570491000099 -97.786099943,27.797343321 -97.609587008999895,27.915012807 -97.414493644999894,27.908820562000098 -97.299915289,27.90572576 -97.222497228999899,27.874760742</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">165</SimpleData>
+		<SimpleData name="Opername">KOCH PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Koch pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">0.223399967386</SimpleData>
+		<SimpleData name="Shape__Length">0.223399967385921</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-97.433073366,27.806635284 -97.525975675,27.846889529000102 -97.420687718,27.908820505</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">166</SimpleData>
+		<SimpleData name="Opername">KOCH PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Koch pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">0.746943441173</SimpleData>
+		<SimpleData name="Shape__Length">0.746943441172602</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.816762675999897,28.685130444 -96.974386252,28.527517637000098 -97.195905642999904,28.186734259 -97.276844943,28.101440945</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">167</SimpleData>
+		<SimpleData name="Opername">KOCH PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Koch pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">3.79918596856</SimpleData>
+		<SimpleData name="Shape__Length">3.79918596855938</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-97.221464222999899,27.875773691000099 -97.276844943,28.101538941 -97.295525608,28.271704749 -97.789654191999901,28.608446326 -97.79230300499999,29.272969449000101 -97.434463307,29.741548570000099 -97.285363505,29.924720302 -97.06384088599999,29.920462357000101 -97.059580698,29.984358013000101 -96.782678677,30.295323265 -96.782678738999905,30.329402214 -96.684697296,30.469974547 -96.637835072,30.5722090840001 -96.57819341,30.853353377000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">168</SimpleData>
+		<SimpleData name="Opername">KOCH PIPELINE</SimpleData>
+		<SimpleData name="Pipename">Koch pipeline</SimpleData>
+		<SimpleData name="Shape_Leng">0.179160505539</SimpleData>
+		<SimpleData name="Shape__Length">0.179160505538514</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-97.153306071,28.378424637 -97.297324617999905,28.271854731000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">169</SimpleData>
+		<SimpleData name="Opername">ENTERPRISE</SimpleData>
+		<SimpleData name="Pipename">TEPPCO South Texas Crude</SimpleData>
+		<SimpleData name="Shape_Leng">1.5959906254</SimpleData>
+		<SimpleData name="Shape__Length">1.59599062539914</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-97.628181372,29.676029152000101 -96.906684887,29.676779791000101 -96.539147977,29.762274274 -96.04216357599999,29.774878062</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">170</SimpleData>
+		<SimpleData name="Opername">ENTERPRISE</SimpleData>
+		<SimpleData name="Pipename">TEPPCO South Texas Crude</SimpleData>
+		<SimpleData name="Shape_Leng">1.02416341433</SimpleData>
+		<SimpleData name="Shape__Length">1.02416341433055</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.98544373199999,29.196678944 -96.960559165999896,29.413644785 -96.625848987,29.478068807000099 -96.19786410499999,29.659674905</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">171</SimpleData>
+		<SimpleData name="Opername">ENTERPRISE</SimpleData>
+		<SimpleData name="Pipename">TEPPCO South Texas Crude</SimpleData>
+		<SimpleData name="Shape_Leng">1.18269190084</SimpleData>
+		<SimpleData name="Shape__Length">1.18269190084434</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.637599033,28.806374164 -96.512896432,29.0763021070001 -96.19786410499999,29.659674905 -96.158485052999893,29.756577279 -96.04216357599999,29.774878062</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">172</SimpleData>
+		<SimpleData name="Opername">ENTERPRISE</SimpleData>
+		<SimpleData name="Pipename">TEPPCO South Texas Crude</SimpleData>
+		<SimpleData name="Shape_Leng">1.27472733559</SimpleData>
+		<SimpleData name="Shape__Length">1.27472733559261</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-97.293910701999906,29.921662358 -96.85417954499999,29.9557857090001 -96.644159082,29.933039069000099 -96.04216357599999,29.774878062</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">173</SimpleData>
+		<SimpleData name="Opername">ENTERPRISE</SimpleData>
+		<SimpleData name="Pipename">TEPPCO South Texas Crude</SimpleData>
+		<SimpleData name="Shape_Leng">0.393769888847</SimpleData>
+		<SimpleData name="Shape__Length">0.393769888847448</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.078332,29.145105543000099 -95.684563028,29.144255806</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">174</SimpleData>
+		<SimpleData name="Opername">ENTERPRISE</SimpleData>
+		<SimpleData name="Pipename">TEPPCO South Texas Crude</SimpleData>
+		<SimpleData name="Shape_Leng">0.875550694553</SimpleData>
+		<SimpleData name="Shape__Length">0.875550694552751</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.512896432,29.0763021070001 -96.302875226,29.001709235000099 -95.987843576,28.995967315 -95.684563028,29.144255806</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">175</SimpleData>
+		<SimpleData name="Opername">ENTERPRISE</SimpleData>
+		<SimpleData name="Pipename">TEPPCO South Texas Crude</SimpleData>
+		<SimpleData name="Shape_Leng">0.843989696496</SimpleData>
+		<SimpleData name="Shape__Length">0.84398969649638</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.04216357599999,29.774878062 -95.745497864,29.671301183 -95.639581974999899,29.675565333000101 -95.505378633,29.619985263 -95.22706020699999,29.630137932</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">176</SimpleData>
+		<SimpleData name="Opername">ENTERPRISE</SimpleData>
+		<SimpleData name="Pipename">TEPPCO South Texas Crude</SimpleData>
+		<SimpleData name="Shape_Leng">0.913298611168</SimpleData>
+		<SimpleData name="Shape__Length">0.913298611167732</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-96.04216357599999,29.774878062 -95.587255330999895,29.887956033 -95.410280764,29.938724721 -95.607176347999896,30.1091892580001</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">177</SimpleData>
+		<SimpleData name="Opername">ENTERPRISE</SimpleData>
+		<SimpleData name="Pipename">TEPPCO South Texas Crude</SimpleData>
+		<SimpleData name="Shape_Leng">0.445264152963</SimpleData>
+		<SimpleData name="Shape__Length">0.445264152962989</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-95.587255330999895,29.887956033 -95.615416029999906,29.910765393000101 -95.377595387,30.243545524000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">178</SimpleData>
+		<SimpleData name="Opername">CHEVRON</SimpleData>
+		<SimpleData name="Pipename">SALT LAKE CRUDE</SimpleData>
+		<SimpleData name="Shape_Leng">3.20058176584</SimpleData>
+		<SimpleData name="Shape__Length">3.20058176584397</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-111.908407573,40.795267739 -111.814984128,40.75773839 -111.52372046799999,40.732720338 -110.232274239,40.169779087 -109.314527934,40.069705337000102 -109.045244663,40.044688545 -108.84740872,40.098903962000101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">179</SimpleData>
+		<SimpleData name="Opername">ENBRIDGE</SimpleData>
+		<SimpleData name="Pipename">Alberta Clipper</SimpleData>
+		<SimpleData name="Shape_Leng">22.7295773147</SimpleData>
+		<SimpleData name="Shape__Length">22.7295773147252</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-92.322235067999898,46.610899293 -93.093786097999896,47.029087864000097 -93.589776314999895,47.265459523000096 -94.829790535,47.392743370000098 -95.463572313,47.7200264640001 -96.235139703,47.956405576000101 -97.695576704,48.956452054000103 -104.501770814,50.229249788000097 -109.444314057,51.835902048 -111.625671409,52.576310855 -113.80453469299999,53.431945054</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">180</SimpleData>
+		<SimpleData name="Opername">MAGELLAN</SimpleData>
+		<SimpleData name="Pipename">BridgeTex</SimpleData>
+		<SimpleData name="Shape_Leng">6.85155471068</SimpleData>
+		<SimpleData name="Shape__Length">6.85155471068263</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-100.817938568,32.52564446 -100.557772,32.588553511 -100.332000042,32.540178607 -99.64456612399999,32.089871741 -98.709483943,31.700801811000101 -97.968293081,31.445375378000101 -97.289616163999895,31.223149951 -96.627333286,30.722835328 -96.130426783999894,30.410693076 -95.743942604,30.1165007510001 -95.282756284,29.799985472 -94.925200784,29.3710672240001</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">181</SimpleData>
+		<SimpleData name="Opername">TRANSCANADA</SimpleData>
+		<SimpleData name="Pipename">Gulf Coast Project</SimpleData>
+		<SimpleData name="Shape_Leng">7.2867493611</SimpleData>
+		<SimpleData name="Shape__Length">7.28674936110065</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-93.93905822399999,29.917484394 -94.037729323999898,29.990452757000099 -94.066148166999895,29.967029356000101 -94.25733413499999,30.025461757000102 -94.338164975,30.082274551000101 -94.4945020279999,30.084567298 -94.683473068,30.206540190000101 -94.742866718999906,30.3504536350001 -94.842005241,30.546070516 -94.77424754499999,31.034330189 -94.818568348,31.082661596 -94.779992797,31.121224634 -94.850208213,31.178315679 -94.876875248,31.283691626000099 -94.949843044,31.381944811 -94.879198586,31.719290422 -94.898826618,31.845189281 -94.985204140999898,32.1087613730001 -95.079984504,32.294389499 -95.152511241,32.728492116 -95.227159254,32.962142157000102 -95.308052262,33.106177684 -95.757780893,33.702932471 -96.10253609199999,34.157079096000103 -96.1600672,34.304837498</coordinates></LineString><LineString><coordinates>-96.154165046999907,34.303657611000098 -96.391323235999906,34.678101246 -96.393516540999897,34.854609599000099 -96.40388888299999,34.915987046 -96.443464685,35.096643259000103 -96.43669181,35.291026848000101 -96.515784214999897,35.414636107 -96.534741529,35.4689368700001 -96.569994349999902,35.534280887000101 -96.587697675,35.624580487000102 -96.63432458299999,35.72250634 -96.633070669999896,35.75850417 -96.657859013,35.884922542 -96.766706277999901,35.984980954</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">182</SimpleData>
+		<SimpleData name="Opername">TALLGRASS ENERGY</SimpleData>
+		<SimpleData name="Pipename">Pony Express Mainline</SimpleData>
+		<SimpleData name="Shape_Leng">11.1709684216</SimpleData>
+		<SimpleData name="Shape__Length">11.1709684215759</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-104.57732717499999,42.2144424520001 -104.504272717,42.205787939000103 -104.481239265,41.989466914 -104.131813914,41.570744249 -103.968335283,41.393339312000101 -103.546490451,40.997253142 -103.305156681,40.753984744 -103.056550309,40.670674128 -102.051332215,40.333807984 -100.71967028,39.868168105 -100.17988072599999,39.653918135 -99.850033128999897,39.538744417 -99.541746087,39.4553511 -99.275203311,39.399697002 -99.048628371,39.272233592000099 -98.708599928999902,39.184022614000099 -98.20898295,39.075296837 -98.142799881,39.038593232 -98.010834003,38.957382433000099 -97.943208827,38.875858402000098 -97.949260784,38.629642703000101 -97.932325267,38.623027651 -97.91715187699999,38.609804676000103 -97.906924195,38.542652254000103 -97.864359877,38.368693966000102 -97.57895063799999,38.173906754 -97.197864865,37.912480081000098 -97.0232700399999,37.752759345000101 -97.005727334,37.280439435 -96.997471237999903,37.213073866000101 -97.030497260999894,37.137420903000098 -97.06765134699999,36.880294603 -97.082100681,36.7348667360001 -97.090357865,36.633897714 -97.071782674,36.390032003000101 -97.032101356,36.333336983 -96.766706277999901,35.984980954</coordinates></LineString>
+  </Placemark>
+</Folder>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="FID" type="int"></SimpleField>
+	<SimpleField name="Opername" type="string"></SimpleField>
+	<SimpleField name="Pipename" type="string"></SimpleField>
+	<SimpleField name="Shape_Leng" type="float"></SimpleField>
+	<SimpleField name="Shape__Length" type="float"></SimpleField>
+</Schema>
+</Document></kml>

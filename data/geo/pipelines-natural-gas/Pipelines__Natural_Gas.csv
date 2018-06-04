@@ -1,0 +1,238 @@
+﻿FID,Typepipe,Operator,Shape_Leng,Shape__Length
+1,Interstate,Kinder Morgan Louisiana Pipeline,2.09347214283,2.09347214282923
+2,Interstate,Midcontinent Express Pipeline,8.18743524935,8.18743524935134
+3,Intrastate,Acadian Gas Gathering System,1.50475665931,1.5047566593064
+4,Intrastate,Acadian Gas Pipeline Sys,6.61661608223,6.6166160822344
+5,Intrastate,Acadian Haynesville Pipeline,3.54116325854,3.54116325853702
+6,Interstate,Algonquin Gas Trans Co,11.8003649016,11.8003649016014
+7,interstate,Alliance Pipeline,1.40247549099,1.40247549098905
+8,Interstate,Alliance Pipeline System,16.0070839613,16.0070839612583
+9,Interstate,Amoco Pipeline Co,5.75424764048,5.75424764048284
+10,Interstate,ANR Pipeline Co,118.16316015,118.163160150364
+11,Interstate,ANR Storage Co,0.368030885117,0.368030885116877
+12,Intrastate,Arkansas Western LLC,8.94501123773,8.94501123773327
+13,Intrastate,Atmos Energy (United Cities Gas Co),0.141821594283,0.141821594283124
+14,Intrastate,Atmos Pipeline - Texas,84.5736377796,84.5736377796145
+15,Gathering,Bighorn Gathering Header,2.33497343805,2.33497343804701
+16,Interstate,Bison Pipeline,5.29449434065,5.29449434065218
+17,Interstate,Black Marlin Pipeline Co,1.475618747,1.47561874700019
+18,Interstate,Blue Dolphin Pipeline Co,1.48238771288,1.4823877128793
+19,Interstate,Bluewater Pipeline Co,0.605011234073,0.60501123407298
+20,Intrastate,Bridgeline Holdings Pipeline LP,10.3843943871,10.384394387127
+21,Intrastate,Brooklyn Union Gas Co,3.76045967473,3.76045967472742
+22,Intrastate,California Gas Transmission Co,57.1568671185,57.1568671185455
+23,Interstate,Canyon Creek Compression Co,0.00333445107927,0.003334451079268
+24,Gathering,Canyon Express Gathering System,0.946780715714,0.946780715714053
+25,Intrastate,Cardinal Pipeline Co,1.28930127818,1.28930127817707
+26,Intrastate,Centana Pipeline Co (LA),0.865638750446,0.865638750445704
+27,Intrastate,Centana Pipeline Co (TX),5.67989658035,5.67989658035036
+28,Interstate,CenterPoint Energy GasTrans Co,105.210298512,105.210499160379
+29,Interstate,Centra Minnesota Pipeline Co,1.25336703015,1.25336703015437
+30,Interstate,Centra Pipeline Co,0.0977261298108,0.097726129810799
+31,Interstate,Chandeleur Pipeline Co,1.70850047994,1.7085004799419
+32,Interstate,Chandeleur Pipeline Co (MAGS),0.417766358372,0.417766358371703
+33,Interstate,Cheyenne Plains Pipeline Co,6.41263828879,6.41263828878579
+34,Gathering,Cleoprata Offshore System,1.85518278672,1.85518278671661
+35,Interstate,Colorado Interstate Gas Co,47.0793786091,47.0793786091074
+36,Interstate,Columbia Gas Trans Co,138.612076508,138.612076508236
+37,Interstate,Columbia Gulf Pipeline,32.8076807852,32.5521926503061
+38,Intrastate,Constitution Pipeline,0.491071235302,0.491071235302406
+39,Intrastate,Coos County Pipeline,1.47303797853,1.47303797853455
+40,Intrastate,Coral Energy Pipeline Co,7.48702879679,7.48702879678767
+41,Intrastate,Cornerstone Pipeline Co,0.240888769509,0.240888769509237
+42,Interstate,Cove Point Pipeline,1.42380332398,1.42380332398066
+43,Intrastate,Creole Pipeline Co,0.482651337074,0.482651337073635
+44,Interstate,Crossroads Pipeline Co,3.89172646243,3.89172646243171
+45,Intrastate,Crosstex Alabama System,1.92407620585,1.92407620584944
+46,Intrastate,Crosstex Arkoma System,1.68905101625,1.68905101625257
+47,Intrastate,Crosstex Mississippi Pipeline,14.365151157,14.3651511569685
+48,Intrastate,Crosstex Texas Systems,19.1148546884,19.1148546884466
+49,Interstate,Dauphin Island Gathering System,5.00526823498,5.00526823497871
+50,Interstate,Destin Pipeline Offshore (SHELL),4.38116929228,4.38116929227918
+51,Interstate,Discovery Pipeline System,3.36813085454,3.36813085454284
+52,Interstate,Dominion Transmission Co,43.2064714341,43.2064714341218
+53,Intrastate,Dow Pipeline Co (LA),2.98821994029,2.98821994029196
+54,Intrastate,Dow Pipeline Co (TX),5.25059585049,5.25059585048509
+55,Gathering,East Break Gathering System,1.4904111088,1.49041110880311
+56,Intrastate,East Ohio Gas Co,20.847383167,20.8473831670051
+57,Interstate,East Tennessee Gas Co,16.8005238967,16.8005238967267
+58,Interstate,Eastern Shore Nat Gas Co,4.33142578341,4.33142578340548
+59,Interstate,El Paso Natural Gas Co,121.113505994,121.113505993999
+60,Intrastate,El Paso Texas Pipeline Co,107.740407066,107.715084493948
+61,Interstate,Elba Express Pipeline,2.87051008691,2.87051008691142
+62,Interstate,Empire Pipeline,0.333386699265,0.333386699264628
+63,Intrastate,Empire Pipeline Co,4.21711062579,4.21711062579283
+64,Interstate,Enbridge Pipelines (AlaTenn),3.76631980133,3.76631980132525
+65,Intrastate,Enbridge Pipelines (East Texas),39.7440707108,39.7440562774657
+66,Interstate,Enbridge Pipelines (Midla),3.27457169169,3.2745716916883
+67,Interstate,Enbridge Pipelines (UTOS),0.468703501516,0.468703501516316
+68,Intrastate,Energy Transfer Co,8.62465173984,8.62465173983783
+69,Intrastate,Energy Transfer LP,48.2881198968,48.2881198968367
+70,Intrastate,Energy Transfer Partners LP,1.65920180997,1.65920180997156
+71,Interstate,EnergyNorth Nat Gas Co,0.568766178996,0.568766178995674
+72,Intrastate,Enogex Inc,37.5820705514,37.582070551406
+73,Gathering,Enterprise Products Partners,1.71666487724,1.716664877244
+74,Interstate,Equitrans Inc,9.0911066799,9.07974405395768
+75,Interstate,ETC Tiger Pipeline,2.89191284758,2.89191284757877
+76,Intrastate,Evangeline Gas Pipeline,0.473498066952,0.473498066952338
+77,Interstate,Fayetteville Express Pipeline,2.9680260211,2.96802602109905
+78,Interstate,Florida Gas Trans Co,59.5334700504,59.5334700503501
+79,Gathering,Fort Union Gathering Header,1.54930358276,1.54930358275903
+80,Interstate,Garden Banks Auger 1 Line,0.523297325559,0.523297325558684
+81,Gathering,Garden Banks Auger 2 Line,0.604708671244,0.604708671243957
+82,Gathering,Garden Banks Gathering Sys,0.72974878506,0.729748785060155
+83,Interstate,Gas Transmission - Northwest,9.80435218043,9.80435218042722
+84,Interstate,Granite State Gas Trans Co,0.723834815228,0.72383481522818
+85,Interstate,Grasslands Pipeline,5.0122789481,5.01227894809545
+86,Interstate,Great Lakes Gas Trans Co,18.789968338,18.7899683380011
+87,Gathering,Green Canyon System (Transco),0.867518127811,0.867518127810673
+88,Interstate,Guardian Pipeline Co,2.48754803536,2.48754803536202
+89,Interstate,Gulf South Pipeline Co,97.3014590022,97.3014590021757
+90,Interstate,Gulfstream Pipeline Co,11.9530135854,11.9530135854039
+91,Intrastate,Heartland Pipeline Co,0.482328784482,0.48232878448187
+92,Interstate,High Island Offshore,4.95319839533,4.95319839533349
+93,Intrastate,Hope Natural Gas Co,3.12038137784,3.1203813778443
+94,Interstate,Horizon Pipeline Co,0.386652633671,0.386652633670523
+95,Intrastate,Houston Pipeline Co,69.1350806016,69.1350806015572
+96,Intrastate,Hutchinson Pipeline,1.38093142676,1.38093142675856
+97,Intrastate,Independence Trail Pipeline Co,2.08183217406,2.08183217405624
+98,Interstate,Iroquois Gas Trans Co,6.63880601166,6.63880601166146
+99,Gathering,Jonah Gas Pipeline System,0.786378566444,0.786378566444421
+100,Interstate,Kelso-Beaver Pipeline,0.367263799977,0.367263799976637
+101,Intrastate,Kenai Kachemak Pipeline,0.590791689674,0.59079168967396
+102,Intrastate,Kentucky-West Virginia Gas Co,8.4488136342,8.44881363420439
+103,Interstate,Kern River Gas Trans Co,15.1241747605,15.1241734554444
+104,Intrastate,KeyStone Gas (Sold to in 2005),0.781561047004,0.781561047004227
+105,Intrastate,Kinder Morgan Texas Pipeline Co,68.2601051881,68.2601051881349
+106,Interstate,KM Interstate Gas Co,100.690578165,100.690578164509
+107,Interstate,KO Transmission Co,0.0467868387244,0.04678683872436
+108,Gathering,Lost Creek Gathering Header,2.44022643822,2.44022643821705
+109,Intrastate,Louisiana Gas Co,8.6265195665,8.62651956650089
+110,Intrastate,Louisiana Intrastate Gas Co,21.9785858641,21.9785858640851
+111,Gathering,Magnolia Offshore Pipeline System,0.783690157234,0.783690157233643
+112,Gathering,Manta Ray Gathering System,2.93821900486,2.938219004864
+113,Interstate,Maritimes & Northeast PL US,3.95520258924,3.95520258924237
+114,Gathering,Merna Pipeline (WFS),0.491355784286,0.491355784286489
+115,Interstate,MGTC Pipeline System,4.38357928092,4.38357928092061
+116,Intrastate,Michcon Gas Co,25.8760252724,25.8760252724331
+117,Intrastate,Michigan Gas Storage Co,7.83614247429,7.83614247428788
+118,Interstate,Midwestern Gas Trans Co,5.37736958799,5.37736958798641
+119,Interstate,MIGC Pipeline System,4.01914137111,4.01914137111035
+120,Interstate,Millennium Pipeline Co,4.30352995373,4.30352995372753
+121,Intrastate,Mississippi Canyon Gathering,0.0902365334268,0.090236533426743
+122,Interstate,Mississippi Canyon Gathering (MARS),0.642228853989,0.642228853988544
+123,Interstate,Mississippi Canyon Gathering (Shell),1.05896428624,1.05896428623974
+124,Interstate,Mississippi Canyon Gathering (URSA),0.729293982743,0.729293982743175
+125,Intrastate,Mississippi Canyon Gathering System,0.553531608006,0.553531608005617
+126,Interstate,Mississippi River Trans Corp,32.1838181711,32.1837307656574
+127,Intrastate,Mississippi Valley Gas Co,8.94352234851,8.9435223485146
+128,Intrastate,Missouri Gas Co,1.11952245471,1.11952245470941
+129,Interstate,"Missouri Interstate Gas, LLC",0.11901412214,0.119014122139707
+130,Intrastate,Missouri Pipeline Co,2.33777063305,2.33777063305247
+131,Intrastate,Missouri Public Service Co,2.95117228755,2.95117228754923
+132,Interstate,Mojave Pipeline Co,5.94213157662,5.94213157662366
+133,Intrastate,Monterey Pipeline Co,6.90574529922,6.90574529922182
+134,Intrastate,Mustang Fuel Co,0.874998187015,0.874998187015085
+135,Intrastate,National Fuel Gas Distr Co,21.8373651807,21.8373651807393
+136,Interstate,National Fuel Gas Supply Co,23.8287295886,23.8287295885946
+137,Interstate,Natural Gas PL Co of Am,89.4112144319,89.4112144319473
+138,Interstate,Nautilus Pipeline System,1.475447576,1.47544757600268
+139,Gathering,Nemo Offshore Pipeline System,0.352334539584,0.352334539584488
+140, ,NET Mexico Pipeline,1.82742882592,1.82742882592164
+141,Interstate,Nora Transmission Co,0.310524954802,0.310524954801593
+142,Interstate,Norse Pipeline LLC,4.80789947316,4.80789947315883
+143,Interstate,North Baja Pipeline Co,1.21527208949,1.21527208949277
+144,Intrastate,North Coast Gas Transmission Co,3.42955018255,3.42955018254891
+145,Interstate,North Country Pipeline Co,0.33887776484,0.338877764839853
+146,Interstate,North Penn Gas Co,11.249911675,11.2499116750048
+147,Interstate,Northern Border PL Co,23.3724771776,23.3724771775583
+148,Intrastate,Northern Illinois Gas Co,44.5480676843,44.5480676842578
+149,Interstate,Northern Natural Gas Co,217.656565891,217.656565891332
+150,Intrastate,Northern Utilities (ME),1.70276458326,1.70276458325849
+151,Interstate,Northwest Pipeline,50.4904600254,50.4904600254009
+152,Intrastate,Northwestern Energy Co,50.8690540713,50.8690540712803
+153,Intrastate,Oasis / Energy Transfer Co,13.34985299,13.2758914316846
+154,Intrastate,Oasis Gas Pipeline Co,19.4583302286,19.4583302285909
+155,Gathering,Okeanos Offshore Pipeline System,1.51500631069,1.51500631069398
+156,Intrastate,Oklahoma Texas Gas Co,0.44621614492,0.446216144919788
+157,Intrastate,ONEOK Gas Transmission LLC,36.916933225,36.9169332249827
+158,Intrastate,ONEOK Gas Transportation LLC,73.8390887782,73.8390887782352
+159,Intrastate,ONEOK Westex Pipeline,46.4792659504,46.4792659504039
+160,Intrastate,Overland Trails Trans Co,4.13505855538,4.1350585553833
+161,Interstate,Overthrust Pipeline Co,3.58642948048,3.586429480481
+162,Interstate,"Ozark Gas Transmission, LLC",11.0867385458,11.0867385458383
+163,Intrastate,Paiute Pipeline Co,10.8494245998,10.8494245997524
+164,Interstate,Panhandle Eastern PL Co,57.2791843848,57.2791843848464
+165,Interstate,Panther Interstate Pipeline LLC,0.621489907781,0.621489907781322
+166,Intrastate,Pecan Pipeline Company,0.382874980176,0.382874980176211
+167,Gathering,Pelican Gas Gathering Sys,1.18293945205,1.18293945205308
+168,Interstate,Penn York Energy Co,0.238270877591,0.238270877591169
+169,Intrastate,Peoples Gas Co (TX),2.37691120094,2.37691120093727
+170,Intrastate,Petal Gas Storage Co,0.972877699478,0.972877699477709
+171,Interstate,PNGTS/Maritimes & Northeast,1.87619705997,1.87619705997461
+172,Interstate,Portland Natural Gas PL,3.15571941942,3.15571941941887
+173,Intrastate,Prairie Rose Pipeline,1.31403244066,1.31403244066078
+174,Intrastate,Public Service Co of NC,9.1882090405,9.18820904050032
+175,Intrastate,Public Service Co of NM,18.7129720688,18.7129720687711
+176,Interstate,Questar Pipeline Co,24.8535429193,24.8535429193406
+177,Interstate,Questar Southern Trails Line,8.07414413921,8.0741441392111
+178,Gathering,Ram-Powell Pipeline (Shell),0.392833653631,0.392833653631265
+179,Interstate,Rockies Express (Echo Springs Lateral),0.0793472905624,0.079347290562465
+180,Interstate,Rockies Express (Entrega),5.61687183534,5.61687183533873
+181,Interstate,Rockies Express Pipeline,24.5700795999,24.5700795999166
+182,Intrastate,Rocky Mountain Natural Gas Co,9.37973921849,9.37973921849341
+183,Interstate,Ruby Pipeline LLC,11.963169416,11.9631694159921
+184,Interstate,Sabine LLC,2.53769588563,2.5376958856326
+185,Intrastate,San Diego Gas & Elec Co,0.57453066923,0.574530669229566
+186,Interstate,Sea Robin Pipeline,6.18572693155,6.18572693154824
+187,Interstate,Shoshone Pipeline,0.522794725515,0.522794725515454
+188,Intrastate,SONAT Exploration Co,0.226984432829,0.226984432829464
+189,Interstate,South Carolina PL Corp,24.7769711939,24.7769711938789
+190,Interstate,South Georgia Gas Pipeline Co,13.86408538,13.8640853799532
+191,Interstate,Southeast Supply Header Pipeline Co,5.94952715572,5.94952715571945
+192,Intrastate,Southern California Gas Co,31.6148819068,31.6148819067825
+193,Interstate,Southern Natural Gas Co,62.3158383163,62.3158383162583
+194,Interstate,Southern Pines Storage Lateral,0.441903421123,0.441903421123312
+195,Interstate,Southern Star Central Gas PL Co,94.6140948766,94.6140948765765
+196,Intrastate,Southern Union Gas Services (TX),9.21205994347,9.21205994347384
+197,Intrastate,Southwest Gas Corp,3.51902377071,3.51902377070799
+198,Gathering,Spirit Offshore Lateral,0.129542728811,0.129542728810889
+199,Interstate,St Lawrence Gas Co,2.31823300632,2.31823300631905
+200,Interstate,Stingray Pipeline,5.4909029117,5.49090291169911
+201,Gathering,Tarpon Gathering System,0.645347056044,0.645347056043993
+202,Intrastate,Tengasco Gas Co,0.663232514316,0.663232514315553
+203,Interstate,Tennessee Gas Pipeline,122.400280257,122.400280256836
+204,Interstate,Texas Eastern,0.405258548584,0.405258548583544
+205,Interstate,Texas Eastern Trans Co,87.5202902906,87.5202902905904
+206,Interstate,Texas Gas Transmission Co,49.3198326433,49.3198326432686
+207,Intrastate,Texas Intrastate Pipeline Co,2.49909595755,2.49909595754608
+208,Intrastate,The Exploration Co,2.12336918619,2.12336918619187
+209,Interstate,Trailblazer Pipeline Co,8.22949600164,8.22949600164475
+210,Interstate,TransColorado Gas Trans Co,4.73627910662,4.73627910661694
+211,Interstate,Transcontinental Gas PL,99.7255727865,99.7255727865493
+212,Interstate,TransOk Pipeline Co,42.3697491718,42.3697491717887
+213,Interstate,Transwestern Gas Co,46.6953257086,46.695325708615
+214,Gathering,Triton Offshore Pipeline System,0.662234071731,0.662234071730881
+215,Interstate,Trunkline Gas Co,35.895656416,35.8956564160122
+216,Intrastate,Tuscaloosa Pipeline Co,0.45884346118,0.458843461179592
+217,Interstate,Tuscarora Pipeline Co,4.68517049422,4.68517049421669
+218,Interstate,Union Light Heat & Power,1.11334143312,1.11334143312323
+219,Interstate,USG Pipeline Co,0.238570238748,0.238570238748106
+220,Intrastate,Valley Gas Pipeline Co,0.513550262183,0.513550262182623
+221,Interstate,Vector Pipeline Co,6.09552216727,6.09552216726929
+222,Intrastate,Venice Gas Gathering Sys,5.75452593416,5.75452593416342
+223,Interstate,Vermont Gas System,0.842771777911,0.842771777910573
+224,Interstate,Viking Gas Transmission Co,10.8230927223,10.8230927223162
+225,Gathering,Viosca Knoll Gathering Company,0.52622575235,0.526225752349669
+226,Intrastate,Virginia Natural Gas Co,3.94515773237,3.94515773237478
+227,Intrastate,West Ohio Gas Co,3.41258476435,3.41258476434603
+228,Gathering,William Deepwater Pipeline,9.42674660268,9.42674660267773
+229,Interstate,Williston Basin Interstate PL Co,47.9828370319,47.9828370319157
+230,Intrastate,Worsham-Steed Pipeline,0.941103532025,0.941103532024523
+231,Interstate,Wyoming Interstate PL Co,11.1091223774,11.1091223773717
+232,Intrastate,West Texas Gas,1.55666818894,1.556668188943
+233,Intrastate,West Texas Gas,2.16181289635,2.16181289634589
+234,Intrastate,West Texas Gas,0.346503966841,0.346503966840526
+235,Intrastate,West Texas Gas,0.29129137783,0.291291377830438
+236,Intrastate,West Texas Gas,0.155444858986,0.155444858985766
+237,Intrastate,San Diego Gas & Elec Co,1.60511739353,1.60511739352819
